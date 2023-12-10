@@ -1,7 +1,7 @@
 {
-  "name": "json-server-vercel",
+  "name": "server-fake",
   "version": "1.0.0",
-  "description": "Deploy JSON Server to Vercel",
+  "description": "JSON Server to Vercel",
   "main": "api/server.js",
   "scripts": {
     "start": "node api/server.js"
