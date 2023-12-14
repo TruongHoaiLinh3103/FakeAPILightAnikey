@@ -3,31 +3,52 @@
     "auth": "Lisoh Anikey"
   },
 
-  
-  "home": [
+
+  "banner": [
     {
       "id": 1,
-      "img": "https://i.pinimg.com/originals/7d/e8/98/7de89843a5109f7103cc6670abcecb96.jpg"
+      "imgOne": "https://i.pinimg.com/originals/7d/e8/98/7de89843a5109f7103cc6670abcecb96.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/ad/46/88/ad46888b9a3355e1ee370fc99af64d0a.jpg",
+      "imgThree": "https://i.pinimg.com/originals/2f/af/9e/2faf9ed62211528721fd6a319d9a7803.jpg",
+      "imgFour": "https://i.pinimg.com/originals/09/3d/2f/093d2f5f89d438105187a27ed8eb48a6.jpg",
+      "imgFive": "https://i.pinimg.com/originals/64/43/fc/6443fc4e0fe56af1881d3e3a54765f5b.jpg",
+      "imgSix": "https://i.pinimg.com/originals/4d/b0/ae/4db0aef9bbf424b9ddd5942c94e54f22.jpg"
     },
     {
       "id": 2,
-      "img": "https://i.pinimg.com/originals/a3/79/d1/a379d13e3f5d47e3edbaf474a18a77c0.jpg"
+      "imgOne": "https://i.pinimg.com/originals/a3/79/d1/a379d13e3f5d47e3edbaf474a18a77c0.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/f8/ed/4c/f8ed4c71bfbd4d8529838ec822459117.jpg",
+      "imgThree": "https://i.pinimg.com/originals/6a/59/c5/6a59c511304e685829bd757835c22ace.jpg",
+      "imgFour": "https://i.pinimg.com/originals/0e/0e/be/0e0ebe1367accc3c6a9d3b307c7405ca.jpg",
+      "imgFive": "https://i.pinimg.com/originals/3e/1a/c9/3e1ac97d5b7e4196a5dbc9e93e760ae9.jpg",
+      "imgSix": "https://i.pinimg.com/originals/01/c5/7e/01c57e5be1da0c3dfa69c3a81f4e8564.jpg"
     },
     {
       "id": 3,
-      "img": "https://i.pinimg.com/originals/31/14/9d/31149d32e1e7018659fcc401637f6c89.jpg"
+      "imgOne": "https://i.pinimg.com/originals/31/14/9d/31149d32e1e7018659fcc401637f6c89.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/89/8a/24/898a247461c778158309148a341a2bf5.jpg",
+      "imgThree": "https://i.pinimg.com/originals/66/7a/7e/667a7e3d6bbc81db86f72720d436b853.jpg",
+      "imgFour": "https://i.pinimg.com/originals/cc/44/d3/cc44d3cb25e7003f002499c47604968c.jpg",
+      "imgFive": "https://i.pinimg.com/originals/d4/2b/7d/d42b7dd024acc0198ab977f3829210df.jpg",
+      "imgSix": "https://i.pinimg.com/originals/7c/bf/1c/7cbf1cc01c1396a5976d2b8965eb14f3.jpg"
     },
     {
       "id": 4,
-      "img": "https://i.pinimg.com/originals/57/f4/11/57f411eff1a9792feef9c365c353007b.jpg"
+      "imgOne": "https://i.pinimg.com/originals/57/f4/11/57f411eff1a9792feef9c365c353007b.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/94/10/ba/9410bab0186b52905d639979e13c0ade.jpg",
+      "imgThree": "https://i.pinimg.com/originals/be/fc/76/befc761605cb4fd31328be5bab4589da.jpg",
+      "imgFour": "https://i.pinimg.com/originals/e5/72/9e/e5729ef15874d16bcfe8f1256b6c8aca.jpg",
+      "imgFive": "https://i.pinimg.com/originals/ba/65/19/ba6519288ce1284605466aa9a19fbf26.jpg",
+      "imgSix": "https://i.pinimg.com/originals/9d/e9/2f/9de92fecc157036a2316c01567ca2899.jpg"
     },
     {
       "id": 5,
-      "img": "https://i.pinimg.com/originals/79/f0/5d/79f05d1d13b02ea458348e6141348244.png"
-    },
-    {
-      "id": 6,
-      "img": "https://i.pinimg.com/originals/07/09/fa/0709fa8ebb3931abecd4fe325a8d6852.jpg"
+      "imgOne": "https://i.pinimg.com/originals/79/f0/5d/79f05d1d13b02ea458348e6141348244.png",
+      "imgTwo": "https://i.pinimg.com/originals/74/9b/d1/749bd196f0b736ffcd37b27f49077d6c.jpg",
+      "imgThree": "https://i.pinimg.com/originals/62/38/5f/62385f4c5a00889d58f4f859b7f84f81.jpg",
+      "imgFour": "https://i.pinimg.com/originals/19/53/0a/19530aa047c420a41879942f6c4c8e6d.png",
+      "imgFive": "https://i.pinimg.com/originals/15/61/70/156170bb062903fa10c4cc709f9019fb.jpg",
+      "imgSix": "https://i.pinimg.com/originals/c8/55/e6/c855e66472414bc8988cfb6674af2d04.jpg"
     }
   ],
   "comments": [
@@ -53,7 +74,7 @@
         "price": 19.99,
         "rating": 5,
         "imgOne": "https://i.pinimg.com/originals/d4/2b/7d/d42b7dd024acc0198ab977f3829210df.jpg",
-        "imgTwo": "https://i.pinimg.com/originals/4a/f3/c1/4af3c18319412cc77b59e0c51d23b6a7.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/cc/44/d3/cc44d3cb25e7003f002499c47604968c.jpg",
         "imgThree": "https://i.pinimg.com/originals/31/0e/ef/310eefe1baae70e57f3fd1812375d454.jpg"
     },
     {
@@ -79,7 +100,7 @@
         "name": "Smart TV 43'' LG 43LM631C0SB.BWZ Full HD Wi-Fi + 2 USB 3 HDMI",
         "price": 1871.10,
         "rating": 4,
-        "imgOne": "https://i.pinimg.com/originals/ee/d3/8c/eed38c21bcfb1566e4a36b320077da43.jpg",
+        "imgOne": "https://i.pinimg.com/originals/a8/7a/8b/a87a8b2276a6231504801df555398c96.jpg",
         "imgTwo": "https://i.pinimg.com/originals/15/bd/a2/15bda28d38ebd3c8c46412fd253a39b8.jpg",
         "imgThree": "https://i.pinimg.com/originals/33/14/64/331464df77d0a6251263b09a3a20a477.jpg"
     },
@@ -97,7 +118,7 @@
         "name": "Kit Máquina de Cortar Cabelos Dual Action Titanium e Multigroom 7 em 1 - Philco",
         "price": 149.99,
         "rating": 3,
-        "imgOne": "https://i.pinimg.com/originals/db/7e/af/db7eafb75b0ae0c41d3df0e83c9a2d83.png",
+        "imgOne": "https://i.pinimg.com/originals/db/7e/af/db7eafb75b0ae0c41d3df0e83c9a2d83.https://i.pinimg.com/originals/38/11/41/381141a0360d946728bc52a2a2f83569.jpg",
         "imgTwo": "https://i.pinimg.com/originals/9d/f0/b2/9df0b2fc0f58fc9c63a1b6526247b11e.jpg",
         "imgThree": "https://i.pinimg.com/originals/44/5b/a9/445ba983107b2c55314331ab5a5a88b0.jpg"
     },
@@ -106,7 +127,7 @@
         "name": "Sofá 3 Lugares Retrátil e Reclinável Cama inBox Compact 1,80m Velusoft Café",
         "price": 888.99,
         "rating": 4,
-        "imgOne": "https://i.pinimg.com/originals/59/ad/e8/59ade8aa1368daa4ac36fb314e9fb4ee.jpg",
+        "imgOne": "https://i.pinimg.com/originals/bd/b8/31/bdb831928e19ac24d573927aeb64b98b.jpg",
         "imgTwo": "https://i.pinimg.com/originals/2f/00/86/2f0086423307248a3603bd62e0cd59a0.jpg",
         "imgThree": "https://i.pinimg.com/originals/ce/1c/a2/ce1ca29bfd2e26c4d0b3e3037661f8e9.jpg"
     },
@@ -115,7 +136,7 @@
         "name": "Cadeira para Auto Snugfix 360º Rotacional Preta Fisher Price - Fisher-Price",
         "price": 975.92,
         "rating": 3,
-        "imgOne": "https://i.pinimg.com/originals/5e/a9/b0/5ea9b0697708ba6c6adab182270599c9.jpg",
+        "imgOne": "https://i.pinimg.com/originals/34/94/b2/3494b2c253e1a2a0555b154a8f194207.jpg",
         "imgTwo": "https://i.pinimg.com/originals/61/db/0b/61db0bd31b7be3f6d4a7e14716cad8ca.jpg",
         "imgThree": "https://i.pinimg.com/originals/fe/67/b0/fe67b0d5956b467e8295d4daf6ec42f8.jpg"
     },
@@ -124,7 +145,7 @@
         "name": "Kit de Ferramentas Fasterr 129 peças Bits e Chaves emergênciais",
         "price": 77.90,
         "rating": 3,
-        "imgOne": "https://i.pinimg.com/originals/2e/27/61/2e2761cc6d8b83c6561718bc2614774a.jpg",
+        "imgOne": "https://i.pinimg.com/originals/0c/b6/83/0cb68398b6b2c803daaa67b548dc82ef.jpg",
         "imgTwo": "https://i.pinimg.com/originals/8f/3c/51/8f3c51f2006b061da77eb8360573f931.jpg",
         "imgThree": "https://i.pinimg.com/originals/ae/dc/f9/aedcf907ba685211b43741ba2fb6749f.jpg"
     }
