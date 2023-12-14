@@ -1,14 +1,33 @@
 {
-  "posts": [
+  "Name": {
+    "auth": "Lisoh Anikey"
+  },
+
+  
+  "home": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "img": "https://i.pinimg.com/originals/7d/e8/98/7de89843a5109f7103cc6670abcecb96.jpg"
     },
     {
-      "title": "json-server",
-      "author": "Anikey",
-      "id": 2
+      "id": 2,
+      "img": "https://i.pinimg.com/originals/a3/79/d1/a379d13e3f5d47e3edbaf474a18a77c0.jpg"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/originals/31/14/9d/31149d32e1e7018659fcc401637f6c89.jpg"
+    },
+    {
+      "id": 4,
+      "img": "https://i.pinimg.com/originals/57/f4/11/57f411eff1a9792feef9c365c353007b.jpg"
+    },
+    {
+      "id": 5,
+      "img": "https://i.pinimg.com/originals/79/f0/5d/79f05d1d13b02ea458348e6141348244.png"
+    },
+    {
+      "id": 6,
+      "img": "https://i.pinimg.com/originals/07/09/fa/0709fa8ebb3931abecd4fe325a8d6852.jpg"
     }
   ],
   "comments": [
