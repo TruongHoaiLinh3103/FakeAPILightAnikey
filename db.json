@@ -18,9 +18,98 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
+  "product": [
+    {
+        "id": 1,
+        "name": "Kit 5 Camisetas Masculinas Básicas Manga Curta",
+        "price": 42.49,
+        "rating": 4,
+        "imgOne": "https://i.pinimg.com/originals/7c/bf/1c/7cbf1cc01c1396a5976d2b8965eb14f3.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/57/47/20/57472011d268a0a4839760f54cff80b1.jpg",
+        "imgThree": "https://i.pinimg.com/originals/d5/ef/c4/d5efc4a9fc9536ea3d450cffdbe7aa5a.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Nutella pote especial 350G ferrero",
+        "price": 19.99,
+        "rating": 5,
+        "imgOne": "https://i.pinimg.com/originals/d4/2b/7d/d42b7dd024acc0198ab977f3829210df.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/4a/f3/c1/4af3c18319412cc77b59e0c51d23b6a7.jpg",
+        "imgThree": "https://i.pinimg.com/originals/31/0e/ef/310eefe1baae70e57f3fd1812375d454.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Console Xbox Series S 500gb Ssd",
+        "price": 2276.10,
+        "rating": 5,
+        "imgOne": "https://i.pinimg.com/originals/c3/22/25/c32225332cd0ae7cef9c614441a5b908.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/6b/33/69/6b3369c2e2fe3e39319a3eee16312d51.jpg",
+        "imgThree": "https://i.pinimg.com/originals/10/10/14/1010140d9a3a38fa94f98786dc08a77d.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fritadeira Elétrica - Airfryer Ichef Polishop - AllSpace - Exclusive - Preto",
+        "price": 899.96,
+        "rating": 4,
+        "imgOne": "https://i.pinimg.com/originals/1a/f6/0f/1af60f11b2c48d60896907ec15e9ea44.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/39/6c/15/396c15778febf8af268251deca823ef2.jpg",
+        "imgThree": "https://i.pinimg.com/originals/64/43/fc/6443fc4e0fe56af1881d3e3a54765f5b.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Smart TV 43'' LG 43LM631C0SB.BWZ Full HD Wi-Fi + 2 USB 3 HDMI",
+        "price": 1871.10,
+        "rating": 4,
+        "imgOne": "https://i.pinimg.com/originals/ee/d3/8c/eed38c21bcfb1566e4a36b320077da43.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/15/bd/a2/15bda28d38ebd3c8c46412fd253a39b8.jpg",
+        "imgThree": "https://i.pinimg.com/originals/33/14/64/331464df77d0a6251263b09a3a20a477.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Tablet Samsung Galaxy A7 Lite 4g 32GB 3GB RAM SM-T225NZAPZTO",
+        "price": 1028.99,
+        "rating": 4,
+        "imgOne": "https://i.pinimg.com/originals/d0/6c/80/d06c80ff0b4b4f5506d637298eefd141.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/f7/f6/ff/f7f6ffcc8e39e9ea02f238681688c2ed.jpg",
+        "imgThree": "https://i.pinimg.com/originals/0d/33/72/0d3372d376d858cda0166c57ce46934a.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Kit Máquina de Cortar Cabelos Dual Action Titanium e Multigroom 7 em 1 - Philco",
+        "price": 149.99,
+        "rating": 3,
+        "imgOne": "https://i.pinimg.com/originals/db/7e/af/db7eafb75b0ae0c41d3df0e83c9a2d83.png",
+        "imgTwo": "https://i.pinimg.com/originals/9d/f0/b2/9df0b2fc0f58fc9c63a1b6526247b11e.jpg",
+        "imgThree": "https://i.pinimg.com/originals/44/5b/a9/445ba983107b2c55314331ab5a5a88b0.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sofá 3 Lugares Retrátil e Reclinável Cama inBox Compact 1,80m Velusoft Café",
+        "price": 888.99,
+        "rating": 4,
+        "imgOne": "https://i.pinimg.com/originals/59/ad/e8/59ade8aa1368daa4ac36fb314e9fb4ee.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/2f/00/86/2f0086423307248a3603bd62e0cd59a0.jpg",
+        "imgThree": "https://i.pinimg.com/originals/ce/1c/a2/ce1ca29bfd2e26c4d0b3e3037661f8e9.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Cadeira para Auto Snugfix 360º Rotacional Preta Fisher Price - Fisher-Price",
+        "price": 975.92,
+        "rating": 3,
+        "imgOne": "https://i.pinimg.com/originals/5e/a9/b0/5ea9b0697708ba6c6adab182270599c9.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/61/db/0b/61db0bd31b7be3f6d4a7e14716cad8ca.jpg",
+        "imgThree": "https://i.pinimg.com/originals/fe/67/b0/fe67b0d5956b467e8295d4daf6ec42f8.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Kit de Ferramentas Fasterr 129 peças Bits e Chaves emergênciais",
+        "price": 77.90,
+        "rating": 3,
+        "imgOne": "https://i.pinimg.com/originals/2e/27/61/2e2761cc6d8b83c6561718bc2614774a.jpg",
+        "imgTwo": "https://i.pinimg.com/originals/8f/3c/51/8f3c51f2006b061da77eb8360573f931.jpg",
+        "imgThree": "https://i.pinimg.com/originals/ae/dc/f9/aedcf907ba685211b43741ba2fb6749f.jpg"
+    }
+],
   "blogs": [
     {
       "id": 1,
