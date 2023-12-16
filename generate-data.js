@@ -1,21 +1,24 @@
 casual = require('casual');
+const { faker } = require('@faker-js/faker');
 const fs = require("fs");
 
-const randomCommentList = (n) => {
+const randomcommentList = (n) => {
     if(n < 0){
         return [];
     }
     const commentList = [];
-    Array.from(new Array(n)).forEach(() => {
+    Array.from(new Array(n)).forEach((eliment, index) => {
         const comment = {
+            id: index,
             name: casual.name,
+            avatar: faker.image.avatar(),
+            like: Math.floor(Math.random() * 100),
+            unchat: Math.floor(Math.random() * 10),
+            unlike: Math.floor(Math.random() * 100),
+            comment: casual.description,
+            productId: Math.floor(Math.random() * 90),
             createAt: Date.now(),
-            updateAt: Date.now(),
-            like: Math.floor(Math.random() * 1000),
-            unchat: Math.floor(Math.random() * 1000),
-            unlike: Math.floor(Math.random() * 1000),
-            commet: casual.text,
-            productId: Math.floor(Math.random() * 100)
+            updateAt: Date.now()
         }
         commentList.push(comment);
     })
@@ -24,7 +27,7 @@ const randomCommentList = (n) => {
 
 (() => {
     //Total 100
-    const commentList = randomCommentList(100);
+    const commentList = randomcommentList(1000);
     // prepare db object
     const backup = {
         comment: commentList
