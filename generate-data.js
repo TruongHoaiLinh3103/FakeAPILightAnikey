@@ -42,36 +42,66 @@ const fs = require("fs");
 
 
 //PRODUCT
-const randomproductList = (n) => {
-    if(n < 0){
-        return [];
-    }
-    const productList = [];
-    Array.from(new Array(n)).forEach((eliment, index) => {
-        const product = {
-            id: index,
-            name: casual.description,
-            price: Math.floor(Math.random() * 1000),
-            rating: Math.floor(Math.random() * 5),
-            imgOne: faker.image.url(),
-            imgTwo: faker.image.url(),
-            imgThree: faker.image.url(),
-            text: casual.text
-        }
-        productList.push(product);
-    })
-    return productList;
-}
+// const randomproductList = (n) => {
+//     if(n < 0){
+//         return [];
+//     }
+//     const productList = [];
+//     Array.from(new Array(n)).forEach((eliment, index) => {
+//         const product = {
+//             id: index,
+//             name: casual.description,
+//             price: Math.floor(Math.random() * 1000),
+//             rating: Math.floor(Math.random() * 5),
+//             imgOne: faker.image.url(),
+//             imgTwo: faker.image.url(),
+//             imgThree: faker.image.url(),
+//             text: casual.text
+//         }
+//         productList.push(product);
+//     })
+//     return productList;
+// }
 
-(() => {
-    //Total 100
-    const productList = randomproductList(501);
-    // prepare db object
-    const backup = {
-        product: productList
-    };
-    // write db object to db.json
-    fs.writeFile("backup.json", JSON.stringify(backup), () => {
-        console.log("Ok");
-    });
-})();
+// (() => {
+//     //Total 100
+//     const productList = randomproductList(501);
+//     // prepare db object
+//     const backup = {
+//         product: productList
+//     };
+//     // write db object to db.json
+//     fs.writeFile("backup.json", JSON.stringify(backup), () => {
+//         console.log("Ok");
+//     });
+// })();
+
+//CHAPTER
+// const randomchapterList = (n) => {
+//     if(n < 0){
+//         return [];
+//     }
+//     const chapterList = [];
+//     Array.from(new Array(n)).forEach((eliment, index) => {
+//         const chapter = {
+//             id: index,
+//             text: "",
+//             productId: 1
+//         }
+//         chapterList.push(chapter);
+//     })
+//     return chapterList;
+// }
+
+// (() => {
+//     //Total 100
+//     const chapterList = randomchapterList(1313);
+//     // prepare db object
+//     const backup = {
+//         chapter: chapterList
+//     };
+//     // write db object to db.json
+//     fs.writeFile("backup.json", JSON.stringify(backup), () => {
+//         console.log("Ok");
+//     });
+// })();
