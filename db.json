@@ -6,28 +6,27 @@
     {
       "id": 1,
       "imgOne": "https://i.pinimg.com/originals/31/14/9d/31149d32e1e7018659fcc401637f6c89.jpg",
-      "imgTwo": "https://i.pinimg.com/originals/89/8a/24/898a247461c778158309148a341a2bf5.jpg",
-      "imgThree": "https://i.pinimg.com/originals/66/7a/7e/667a7e3d6bbc81db86f72720d436b853.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/9f/3f/86/9f3f865569d1282e08e751f2eb2c92df.jpg",
+      "imgThree": "https://i.pinimg.com/originals/02/d8/af/02d8af72ca517a54c4cfe3b57bb77ac7.png",
       "imgFour": "https://i.pinimg.com/originals/cc/44/d3/cc44d3cb25e7003f002499c47604968c.jpg",
-      "imgFive": "https://i.pinimg.com/originals/d4/2b/7d/d42b7dd024acc0198ab977f3829210df.jpg",
+      "imgFive": "https://i.pinimg.com/originals/c7/34/53/c73453490668fe0553ce0143ebd23a7b.jpg",
       "imgSix": "https://i.pinimg.com/originals/7c/bf/1c/7cbf1cc01c1396a5976d2b8965eb14f3.jpg"
     },
     {
       "id": 2,
-      "imgOne": "https://i.pinimg.com/originals/57/f4/11/57f411eff1a9792feef9c365c353007b.jpg",
+      "imgOne": "https://i.pinimg.com/originals/b7/93/10/b79310f710bea5271f89e06bac022832.jpg",
       "imgTwo": "https://i.pinimg.com/originals/94/10/ba/9410bab0186b52905d639979e13c0ade.jpg",
       "imgThree": "https://i.pinimg.com/originals/be/fc/76/befc761605cb4fd31328be5bab4589da.jpg",
-      "imgFour": "https://i.pinimg.com/originals/e5/72/9e/e5729ef15874d16bcfe8f1256b6c8aca.jpg",
-      "imgFive": "https://i.pinimg.com/originals/ba/65/19/ba6519288ce1284605466aa9a19fbf26.jpg",
-      "imgSix": "https://i.pinimg.com/originals/9d/e9/2f/9de92fecc157036a2316c01567ca2899.jpg"
+      "imgFour": "https://i.pinimg.com/originals/16/41/88/1641887495dff8bccaae63a03f1fbfb1.jpg",
+      "imgFive": "https://i.pinimg.com/originals/6b/dc/26/6bdc2665dc31bfd7c60759b3b4610898.jpg",
+      "imgSix": "https://i.pinimg.com/originals/35/76/e6/3576e622a3e54305fa3a7e16bbcc2381.jpg"
     }
   ],
   "product": [
     {
       "id": 1,
       "name": "Không nhường nữa ta chết, ta liền thật vô địch",
-      "price": 188.88,
-      "rating": 5,
+      "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/b5/61/32/b56132d7d71fb58bacba9ce9a7574fb8.jpg",
       "imgTwo": "https://i.pinimg.com/originals/de/52/f4/de52f47415c5b583cdc5fcd8ef130c77.jpg",
       "imgThree": "https://i.pinimg.com/originals/c6/3f/d0/c63fd0c30b086806abf14397ef4f43d2.jpg",
@@ -37,8 +36,7 @@
     {
       "id": 2,
       "name": "Thiên khải bại gia",
-      "price": 244.88,
-      "rating": 5,
+      "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/28/a3/4c/28a34c675b7e14acbcc584db633e9cca.jpg",
       "imgTwo": "https://i.pinimg.com/originals/77/19/a3/7719a37fdb15d9acf1666ef6bc225029.jpg",
       "imgThree": "https://i.pinimg.com/originals/3a/8c/39/3a8c39f5812f6f4a7ea0c337fc0b23f9.jpg",
@@ -48,7 +46,6 @@
     {
       "id": 3,
       "name": "Tối cường phản phái hệ thống",
-      "price": 245,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/4a/53/78/4a5378dae9b991ec2f1fe08607cf98d1.jpg",
       "imgTwo": "https://i.pinimg.com/originals/c6/26/1a/c6261ab95f8021963d13d7d8e40e06d6.jpg",
@@ -59,7 +56,6 @@
     {
       "id": 4,
       "name": "Chuyển sinh thành liễu đột biến",
-      "price": 320,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/c7/34/53/c73453490668fe0553ce0143ebd23a7b.jpg",
       "imgTwo": "https://i.pinimg.com/originals/9f/3b/c7/9f3bc71d2852789fd2e717b7b57d86c3.jpg",
@@ -70,7 +66,6 @@
     {
       "id": 5,
       "name": "Danh sách kẻ phản diện",
-      "price": 300,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/f8/73/73/f87373894152bb445dffb4daf5d6b06d.jpg",
       "imgTwo": "https://i.pinimg.com/originals/44/21/21/44212119b0de85f810e3c9422f0c5bd5.jpg",
@@ -81,7 +76,6 @@
     {
       "id": 6,
       "name": "Hoa sơn tái xuất",
-      "price":250,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/85/1c/5f/851c5f2d9c8b2e2d1b5a87ef20c62c22.jpg",
       "imgTwo": "https://i.pinimg.com/originals/96/ea/5f/96ea5f82112d34c4b9839ea94c2b28b0.jpg",
@@ -92,7 +86,6 @@
     {
       "id": 7,
       "name": "Thương thiên tại hạ",
-      "price": 320,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/42/04/f4/4204f4f05535d8c3740cd773959a2c4e.jpg",
       "imgTwo": "https://i.pinimg.com/originals/97/37/a6/9737a6cdb1ef9ed9b2d6b7234a042e4b.jpg",
@@ -103,7 +96,6 @@
     {
       "id": 8,
       "name": "Phụ thân, Hôm nay người đọc sách chưa?",
-      "price": 320,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/bd/f5/5b/bdf55be63146ab3665c51e364da47384.jpg",
       "imgTwo": "https://i.pinimg.com/originals/9f/a0/aa/9fa0aa00475922cbf6823919a7f60d3b.jpg",
@@ -114,7 +106,6 @@
     {
       "id": 9,
       "name": "Ma kể chuyện",
-      "price": 300,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/6a/7c/e5/6a7ce5e340d8cb432f7b3fb96bc61cb6.jpg",
       "imgTwo": "https://i.pinimg.com/originals/f2/78/9f/f2789f8bf4056892b697c4417431433a.jpg",
@@ -125,7 +116,6 @@
     {
       "id": 10,
       "name": "Ma vương thất nghiệp",
-      "price": 340,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/cc/3a/f6/cc3af6f442d9c82c0baf627ac004fa2b.jpg",
       "imgTwo": "https://i.pinimg.com/originals/7b/c0/d1/7bc0d1126b19d660ac2b49fc44fce8f2.jpg",
@@ -136,8 +126,7 @@
     {
       "id": 11,
       "name": "Mở đầu nữ đế làm chính cung",
-      "price": 310,
-      "rating": 4,
+      "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/a4/c2/35/a4c235ae140c5480f37b3caf53154cd4.jpg",
       "imgTwo": "https://i.pinimg.com/originals/d9/50/cc/d950cca1b12e8e3170ae4d1e3fe60fe4.jpg",
       "imgThree": "https://i.pinimg.com/originals/6e/38/85/6e3885dcf19a64d9f50220909ad85a93.jpg",
@@ -147,7 +136,6 @@
     {
       "id": 12,
       "name": "Tận thế trò chơi ghép hình",
-      "price": 208.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/9b/87/27/9b8727d573f5f6b18e3583ec526c0eca.jpg",
       "imgTwo": "https://i.pinimg.com/originals/27/0f/73/270f733bf7ed1f120b3f4e64e68a045d.jpg",
@@ -158,7 +146,6 @@
     {
       "id": 13,
       "name": "Oan gia chung nhà!",
-      "price": 208.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/c5/bb/a4/c5bba4d0deaee9f1358df3957a7472a0.jpg",
       "imgTwo": "https://i.pinimg.com/originals/0e/27/03/0e2703812368c53b7b2384b2bd7f7bc1.jpg",
@@ -169,7 +156,6 @@
     {
       "id": 14,
       "name": "Lão đại xuyên không gả cho phu quân mù",
-      "price": 208.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/fb/02/ef/fb02efc76af03f42323065674e1bc4ba.jpg",
       "imgTwo": "https://i.pinimg.com/originals/f6/7e/1c/f67e1cafed39f9186dc11c737f5da218.jpg",
@@ -180,8 +166,7 @@
     {
       "id": 15,
       "name": "Vợ tôi và tôi thống trị Tam giới",
-      "price": 208.88,
-      "rating": 3,
+      "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/f8/f1/69/f8f16971bc91cc5d6bf2d8e1283f8ccd.jpg",
       "imgTwo": "https://i.pinimg.com/originals/aa/79/b2/aa79b24eb05f01705066cc4e5d8e5fd3.jpg",
       "imgThree": "https://i.pinimg.com/originals/a6/66/a2/a666a2898607aef6f50e7134fbeeb8d0.jpg",
@@ -191,7 +176,6 @@
     {
       "id": 16,
       "name": "Ma lâm Thiên Hạ",
-      "price": 208.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/f7/5d/83/f75d83dd2f1a022f2fcb3407873476a3.jpg",
       "imgTwo": "https://i.pinimg.com/originals/ee/33/24/ee332498584c2e1cb6c97168c45ec0f2.jpg",
@@ -202,8 +186,7 @@
     {
       "id": 17,
       "name": "Hệ Thống Gánh Con Mạnh Nhất",
-      "price": 208.88,
-      "rating": 4,
+      "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/0e/2d/4c/0e2d4c873aa36d80f69d72aa122c2132.jpg",
       "imgTwo": "https://i.pinimg.com/originals/6d/61/65/6d61651c18bd3c80937802525ca404ee.jpg",
       "imgThree": "https://i.pinimg.com/originals/7b/8a/00/7b8a00d4b32657004ae268cfb594ec4d.jpg",
@@ -213,7 +196,6 @@
     {
       "id": 18,
       "name": "Vợ ơi, xin hãy ngoan ngoãn nhé!",
-      "price": 280.88,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/d1/86/4e/d1864e2621cc490c70b64b116dff057c.jpg",
       "imgTwo": "https://i.pinimg.com/originals/36/74/06/367406344677d4ebb685ff797791d81c.jpg",
@@ -224,7 +206,6 @@
     {
       "id": 19,
       "name": "Nữ chính từ trong sách chạy ra ngoài rồi phải làm sao đây",
-      "price": 280.88,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/57/97/96/579796cec1d556d457ff5881d4334fdf.jpg",
       "imgTwo": "https://i.pinimg.com/originals/21/99/8b/21998b9f3260ddee64eca94acc1f6354.jpg",
@@ -235,7 +216,6 @@
     {
       "id": 20,
       "name": "Tôi sống trên hoang đảo cùng các em gái",
-      "price": 188.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/a8/0e/f8/a80ef83f52474b110ea433ced3de1ff6.jpg",
       "imgTwo": "https://i.pinimg.com/originals/91/4b/d2/914bd23ec5a25ae19c9b604ffb3c2fe3.jpg",
@@ -246,7 +226,6 @@
     {
       "id": 21,
       "name": "Vạn Cổ Tối Cường Tông",
-      "price": 208.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/d7/43/5a/d7435a9ab0f2d4c15bd3dedfb3ab5138.jpg",
       "imgTwo": "https://i.pinimg.com/originals/6b/de/a6/6bdea6e3e88656f1867aa10445b196c6.jpg",
@@ -257,7 +236,6 @@
     {
       "id": 22,
       "name": "Ta Sáng Tạo Truyền Thuyết Đô Thị",
-      "price": 228.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/83/4f/b0/834fb05cd5773b08a284c6258f456753.jpg",
       "imgTwo": "https://i.pinimg.com/originals/7c/d7/8c/7cd78c95f63708f0c6d631c2b5a057d5.jpg",
@@ -268,8 +246,7 @@
     {
       "id": 23,
       "name": "Kiều Thê Lại Là Trùm Phản Diện",
-      "price": 188.88,
-      "rating": 3,
+      "rating": 1,
       "imgOne": "https://i.pinimg.com/originals/d2/34/4a/d2344af23e6b9d51ba0da4ead8864b70.jpg",
       "imgTwo": "https://i.pinimg.com/originals/42/64/8d/42648d1a2acd90e19b3f052ade016b71.jpg",
       "imgThree": "https://i.pinimg.com/originals/cd/2d/f0/cd2df0a86648df9cf80d3c05b1275ab5.jpg",
@@ -279,7 +256,6 @@
     {
       "id": 24,
       "name": "Vạn Cổ Tối Cường Phò Mã",
-      "price": 208.88,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/8e/3e/a8/8e3ea89736ecbe8e1f2fdfcfd278817a.jpg",
       "imgTwo": "https://i.pinimg.com/originals/f4/04/b0/f404b06e8dbd5d32bfa6f2ade32699a7.jpg",
@@ -290,7 +266,6 @@
     {
       "id": 25,
       "name": "Đại Đường: Võ Thần Group Chat",
-      "price": 208.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/33/a0/57/33a0572f88d4e162fd562bb920ac4a45.jpg",
       "imgTwo": "https://i.pinimg.com/originals/26/12/b6/2612b621741b212803da674f9b9aa3aa.jpg",
@@ -301,7 +276,6 @@
     {
       "id": 26,
       "name": "Ta Muốn An Tĩnh, Hệ Thống Lại Bắt Ta Tìm Chết",
-      "price": 198.88,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/ff/c0/63/ffc06327b3ed89744e066422a5574452.jpg",
       "imgTwo": "https://i.pinimg.com/originals/81/1b/9c/811b9cc27bd07b0d5e0322f313ec541a.jpg",
@@ -312,7 +286,6 @@
     {
       "id": 27,
       "name": "Cuồng Nữ Trọng Sinh - Hoàn Khố Thất Hoàng Phi",
-      "price": 200.88,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/eb/ec/c5/ebecc5538b95e666352681db62b9fbb0.png",
       "imgTwo": "https://i.pinimg.com/originals/68/41/c2/6841c27dad82a26315dd3030d5c2b34f.jpg",
@@ -323,7 +296,6 @@
     {
       "id": 28,
       "name": "Trước Ngày Tận Thế, Ta Và Bạn Gái Lại Chém Giết Lẫn Nhau",
-      "price": 200.88,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/fb/3d/e9/fb3de9ccdb185ca78117aef4430c4743.png",
       "imgTwo": "https://i.pinimg.com/originals/46/ad/99/46ad992b2923d7f775e3fcd51de5a2e1.jpg",
@@ -334,7 +306,6 @@
     {
       "id": 29,
       "name": "Vương Miện Viridescent",
-      "price": 200.88,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/91/a9/bb/91a9bb560107cfdf0180f5a3d711c216.jpg",
       "imgTwo": "https://i.pinimg.com/originals/96/90/b0/9690b08c5b9c8b49ff1cbfec075b034b.jpg",
@@ -345,7 +316,6 @@
     {
       "id": 30,
       "name": "Dục huyết Thương hậu",
-      "price": 230.88,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/fc/9c/c7/fc9cc70b9ddb3c1e85b27222e3774fef.jpg",
       "imgTwo": "https://i.pinimg.com/originals/24/0c/74/240c74668a652166f837987751192b36.jpg",
@@ -356,7 +326,6 @@
     {
       "id": 31,
       "name": "Tây di",
-      "price": 220,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/77/e9/9b/77e99b130a32282af9d2b8a96868b7a4.jpg",
       "imgTwo": "https://i.pinimg.com/originals/c5/e4/f5/c5e4f563003ce7da558e80774e52b904.jpg",
@@ -367,7 +336,6 @@
     {
       "id": 32,
       "name": "Đào mộ bút ký",
-      "price": 248,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/dc/8c/51/dc8c51dabb0dad1f9575ff27d8af71e7.jpg",
       "imgTwo": "https://i.pinimg.com/originals/06/3f/e1/063fe15d79a50173a2699ab7ff25b37d.jpg",
@@ -378,7 +346,6 @@
     {
       "id": 33,
       "name": "Ma thổi đèn",
-      "price": 248,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/b7/2b/dd/b72bddc2ee0b9b86346d7842512aec1e.jpg",
       "imgTwo": "https://i.pinimg.com/originals/b8/5a/3b/b85a3b0d17fa52335d9b81f2fb2ea18a.jpg",
@@ -389,8 +356,7 @@
     {
       "id": 34,
       "name": "Bao Thanh Thiên",
-      "price": 300,
-      "rating": 3,
+      "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/18/2d/fc/182dfcfa21ce81d1cf7cfbfc8d13ed9b.jpg",
       "imgTwo": "https://i.pinimg.com/originals/21/98/f5/2198f5525267b378206abe6f8a8da18e.jpg",
       "imgThree": "https://i.pinimg.com/originals/8c/06/6b/8c066b5a74de5c6836509fd28692f0ec.jpg",
@@ -400,8 +366,7 @@
     {
       "id": 35,
       "name": "Vạn tra triêu hoàng",
-      "price": 230,
-      "rating": 4,
+      "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/0c/ad/c0/0cadc06e1b76cf59f550b9ff41ce493f.jpg",
       "imgTwo": "https://i.pinimg.com/736x/6b/e4/ab/6be4aba2b14f9d15b164d19ae1010264.jpg",
       "imgThree": "https://i.pinimg.com/originals/93/52/b2/9352b2feef0b1e740c773bca31499b42.jpg",
@@ -411,7 +376,6 @@
     {
       "id": 36,
       "name": "Khánh dư niên",
-      "price": 230,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/20/62/78/206278f607dc3cbef33b65ca74813402.jpg",
       "imgTwo": "https://i.pinimg.com/originals/f7/93/ea/f793ea99e90484f4b6630cb821cf26c9.jpg",
@@ -422,7 +386,6 @@
     {
       "id": 37,
       "name": "Quỷ dị khó giết? Thật xin lỗi, ta mới thật sự là bất tử",
-      "price": 230,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/45/08/ab/4508abe1a910b31bc4a666d6ad06ddc8.jpg",
       "imgTwo": "https://i.pinimg.com/originals/48/4f/b4/484fb41ab58abfd5537b7612544a2ee4.jpg",
@@ -433,7 +396,6 @@
     {
       "id": 38,
       "name": "Hóa thân thành mèo",
-      "price": 230,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/88/01/c1/8801c1ec66ce5750b72e2d0c40c47cc7.jpg",
       "imgTwo": "https://i.pinimg.com/originals/b9/b4/7b/b9b47b37daa71012f08869cf7c44512f.jpg",
@@ -444,8 +406,7 @@
     {
       "id": 39,
       "name": "Quỷ dị khôi phục: ta có thể hóa thân thành đại yêu",
-      "price": 238,
-      "rating": 3,
+      "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/39/69/20/396920962d981f65e711d1ef233972a9.jpg",
       "imgTwo": "https://i.pinimg.com/originals/28/02/7e/28027e8e507942f41201baeb01be4471.jpg",
       "imgThree": "https://i.pinimg.com/originals/67/fc/5e/67fc5e2db8da714b1e6ae59d65f803b6.jpg",
@@ -455,7 +416,6 @@
     {
       "id": 40,
       "name": "Toàn cầu ngự quỷ: Trong cơ thể ta có hàng trăm triệu con quỷ",
-      "price": 240,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/50/78/d9/5078d9ba7151b44ba904b69db40e58f0.jpg",
       "imgTwo": "https://i.pinimg.com/originals/e9/d1/b2/e9d1b2edc2c106e333d8b5f03be9d5d7.jpg",
@@ -466,7 +426,6 @@
     {
       "id": 41,
       "name": "Ta là Tà Đế",
-      "price": 300,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/99/2e/c1/992ec1871955b976d93a6437bbfdcd54.jpg",
       "imgTwo": "https://i.pinimg.com/originals/28/86/85/288685640b9c1f4dd71a1dc96d0f7365.jpg",
@@ -477,7 +436,6 @@
     {
       "id": 42,
       "name": "Tâm ma",
-      "price": 300,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/00/f5/4a/00f54a4f5231aa60c2b31b523eab504e.jpg",
       "imgTwo": "https://i.pinimg.com/originals/5e/5b/93/5e5b93594c3ce5331b63a7e33d403a89.jpg",
@@ -488,8 +446,7 @@
     {
       "id": 43,
       "name": "Phong yêu vấn đạo",
-      "price": 300,
-      "rating": 2,
+      "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/a7/6d/a5/a76da520aa717c7decfc30035758a94c.jpg",
       "imgTwo": "https://i.pinimg.com/originals/4c/39/64/4c3964c57858c563a0547e498131b967.jpg",
       "imgThree": "https://i.pinimg.com/originals/60/65/af/6065af966141311e47d60e12e6d31ddd.jpg",
@@ -499,7 +456,6 @@
     {
       "id": 44,
       "name": "Tử thần Phiêu Nguyệt",
-      "price": 300,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/57/47/20/57472011d268a0a4839760f54cff80b1.jpg",
       "imgTwo": "https://i.pinimg.com/originals/87/ad/c6/87adc6f06215d3374ec1838b6316d9ce.jpg",
@@ -510,7 +466,6 @@
     {
       "id": 45,
       "name": "Trở thành thần chủ Cthulhu",
-      "price": 240,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/f5/ca/4d/f5ca4d0e26224790dff15fa95ed3847a.jpg",
       "imgTwo": "https://i.pinimg.com/originals/33/38/08/33380827b3a3be7824eb8e593cbd757c.jpg",
@@ -521,7 +476,6 @@
     {
       "id": 46,
       "name": "Đại quản gia là Ma Hoàng",
-      "price": 300,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/e6/d3/b1/e6d3b1d08c171c414f4a7e1fde0d9023.jpg",
       "imgTwo": "https://i.pinimg.com/originals/76/4f/a4/764fa4fc79dcbdc6b362a40130bfd467.jpg",
@@ -532,8 +486,7 @@
     {
       "id": 47,
       "name": "Chàng rể mạnh nhất lịch sử",
-      "price": 335,
-      "rating": 3,
+      "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/4e/15/a5/4e15a5d8d31ea9370c71b4044bb962f6.jpg",
       "imgTwo": "https://i.pinimg.com/originals/1a/5d/d7/1a5dd79ddd26a0942c3fd90ffe8c896c.jpg",
       "imgThree": "https://i.pinimg.com/originals/70/6a/a7/706aa7d6b95b4db4c8a7ce4c9840e1bc.jpg",
@@ -543,7 +496,6 @@
     {
       "id": 48,
       "name": "Yêu thần ký",
-      "price": 280,
       "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/73/47/4b/73474bb85b7d31bfac7f4e77f523e066.jpg",
       "imgTwo": "https://i.pinimg.com/originals/50/01/13/5001137d561d729fbb6ee52c088c47e5.jpg",
@@ -554,7 +506,6 @@
     {
       "id": 49,
       "name": "Bậc thầy thiết kế điền trang",
-      "price": 200,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/a4/6a/f2/a46af26e2266575548c45b53600e2bbc.jpg",
       "imgTwo": "https://i.pinimg.com/originals/9c/92/14/9c92142742ece4abe11a9dcdbaad4b87.jpg",
@@ -565,8 +516,7 @@
     {
       "id": 50,
       "name": "Cuồng ma tái thế",
-      "price": 256,
-      "rating": 1,
+      "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/12/d1/77/12d1772b5175dbc1a52283a180257231.jpg",
       "imgTwo": "https://i.pinimg.com/originals/40/c2/f3/40c2f3bf8ab71c62aa272cd1c425413a.jpg",
       "imgThree": "https://i.pinimg.com/originals/5f/48/69/5f4869bc5cb2e279c1416c66cca8ef50.jpg",
@@ -576,7 +526,6 @@
     {
       "id": 51,
       "name": "Tuyệt đối kiếm cảm",
-      "price": 319,
       "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/93/7b/52/937b5240b133e70e79bf31a130e12014.jpg",
       "imgTwo": "https://i.pinimg.com/originals/6a/01/ca/6a01cae4593e602fa942692ea709d07d.jpg",
@@ -587,7 +536,6 @@
     {
       "id": 52,
       "name": "Ánh sáng cuối con đường",
-      "price": 300,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/79/43/c9/7943c90ccb49bc006b9ea360da325a1f.jpg",
       "imgTwo": "https://i.pinimg.com/originals/95/e5/23/95e523165eaf9f929b78d403f85b3574.jpg",
@@ -598,7 +546,6 @@
     {
       "id": 53,
       "name": "Chuyển sinh vào thế giới võ lâm",
-      "price": 206,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/23/f8/4f/23f84f8ca48be52e33eaa9528cce8f47.jpg",
       "imgTwo": "https://i.pinimg.com/originals/68/04/8e/68048ea23f483469dafe7833d4179a76.jpg",
@@ -609,7 +556,6 @@
     {
       "id": 54,
       "name": "Ta quét phó bản ở khắp thế giới",
-      "price": 298,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/7c/bf/1c/7cbf1cc01c1396a5976d2b8965eb14f3.jpg",
       "imgTwo": "https://i.pinimg.com/originals/73/5d/e0/735de030421fa7d39876e17f99c31dbd.jpg",
@@ -620,7 +566,6 @@
     {
       "id": 55,
       "name": "Người đưa thư vô hạn",
-      "price": 280,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/d4/2b/7d/d42b7dd024acc0198ab977f3829210df.jpg",
       "imgTwo": "https://i.pinimg.com/originals/d2/48/3a/d2483a631eea7ff8f508f673a4e6a70e.jpg",
@@ -631,7 +576,6 @@
     {
       "id": 56,
       "name": "Bắt đầu từ cửu đầu điểu",
-      "price": 206,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/05/bd/d2/05bdd2bc028ce7fbfcfbb526b60e14d0.jpg",
       "imgTwo": "https://i.pinimg.com/originals/c5/d1/08/c5d108dfcd3c60158355d30d70351dac.jpg",
@@ -642,7 +586,6 @@
     {
       "id": 57,
       "name": "Dị thế Tà Quân",
-      "price": 311,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/c3/22/25/c32225332cd0ae7cef9c614441a5b908.jpg",
       "imgTwo": "https://i.pinimg.com/originals/30/f2/ae/30f2aef4a49f72ba75d27f94d542b64f.jpg",
@@ -653,7 +596,6 @@
     {
       "id": 58,
       "name": "Thám tử lừng danh Conan",
-      "price": 211,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/e7/7c/45/e77c45c0002c2f3149e6b9e867c4b232.jpg",
       "imgTwo": "https://i.pinimg.com/originals/57/3d/7c/573d7c407af3a850419d09817aa0eece.jpg",
@@ -664,7 +606,6 @@
     {
       "id": 59,
       "name": "Ta làm kiêu hùng tại dị giới",
-      "price": 274,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/31/0e/ef/310eefe1baae70e57f3fd1812375d454.jpg",
       "imgTwo": "https://i.pinimg.com/originals/b0/8c/7f/b08c7f82a536b857d9d51b5981f3d54c.jpg",
@@ -675,7 +616,6 @@
     {
       "id": 60,
       "name": "Hoạn phi thiên hạ",
-      "price": 341,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/6a/7b/80/6a7b8082c84e86d424de23069f7585d7.jpg",
       "imgTwo": "https://i.pinimg.com/originals/06/b7/d6/06b7d6fc37059f979761bc9b48eff5d0.jpg",
@@ -686,8 +626,7 @@
     {
       "id": 61,
       "name": "Ngày tôi sinh ra, bách quỷ dạ hành, tuyết thi hộ đạo",
-      "price": 350,
-      "rating": 0,
+      "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/cf/c8/1d/cfc81d407ad74afc9d82bca8bc4a0a4e.jpg",
       "imgTwo": "https://i.pinimg.com/originals/46/c9/a2/46c9a24a3096f3624f7f1779716663b1.jpg",
       "imgThree": "https://i.pinimg.com/originals/c3/83/2a/c3832a3b60c8464089128af10037eb45.jpg",
@@ -697,7 +636,6 @@
     {
       "id": 62,
       "name": "Độc bộ thiên hạ: Đặc công thần y",
-      "price": 295,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/b6/65/7f/b6657f8cf0b48de6a727d853f4024dda.jpg",
       "imgTwo": "https://i.pinimg.com/originals/66/e2/4a/66e24a5a35153b068f7f08cb96591907.jpg",
@@ -708,8 +646,7 @@
     {
       "id": 63,
       "name": "Vạn giới tiên tung",
-      "price": 233,
-      "rating": 1,
+      "rating": 2,
       "imgOne": "https://i.pinimg.com/originals/73/24/d8/7324d85b911cf4e0ddd5256042de0671.jpg",
       "imgTwo": "https://i.pinimg.com/originals/98/17/34/98173476f25ae050822dfdd412660cf3.jpg",
       "imgThree": "https://i.pinimg.com/originals/25/d2/ae/25d2aedbf9f9db0ec27fc61756ab87ef.jpg",
@@ -719,7 +656,6 @@
     {
       "id": 64,
       "name": "Trùng sinh trở lại 1983 làm phú hào",
-      "price": 233,
       "rating": 5,
       "imgOne": "https://www.walibu.com/Upload/Blog/49473cb2-f573-4a7c-aadc-5d6fbd5cc860.jpg",
       "imgTwo": "https://i.pinimg.com/originals/ab/ec/c8/abecc8f1180a43e81120663443087235.jpg",
@@ -730,7 +666,6 @@
     {
       "id": 65,
       "name": "Kinh dị thịnh yến",
-      "price": 305,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/b4/0a/cb/b40acb90bda15aad140cb982c232b78a.jpg",
       "imgTwo": "https://i.pinimg.com/originals/91/63/ec/9163ec5a1cc8cc787994b6c613676e7f.jpg",
@@ -741,7 +676,6 @@
     {
       "id": 66,
       "name": "Đạo quân",
-      "price": 337,
       "rating": 4,
       "imgOne": "https://i7.bumcheo.info/manga/26/26808/00.thumb_500x.jpg",
       "imgTwo": "https://i.pinimg.com/originals/14/cb/6b/14cb6ba0429be76fe31ac518eadeea3a.jpg",
@@ -752,8 +686,7 @@
     {
       "id": 67,
       "name": "Mệnh danh thuật của bóng tối",
-      "price": 294,
-      "rating": 1,
+      "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/d5/ef/c4/d5efc4a9fc9536ea3d450cffdbe7aa5a.jpg",
       "imgTwo": "https://i.pinimg.com/originals/08/4f/e0/084fe09ee37fbf5fb26a7201a4497ffc.jpg",
       "imgThree": "https://i.pinimg.com/originals/e0/cd/a9/e0cda937ae28941093a58d9c7bd947cf.jpg",
@@ -763,8 +696,7 @@
     {
       "id": 68,
       "name": "Đừng hiểu lầm, tôi mới là người bị hại!",
-      "price": 295,
-      "rating": 0,
+      "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/51/22/c9/5122c9c98841e3a8c89167a725aa022a.jpg",
       "imgTwo": "https://i.pinimg.com/originals/93/90/46/939046f5ad91448dbbf1962dd06be4c5.jpg",
       "imgThree": "https://i.pinimg.com/originals/c9/35/b3/c935b33958cddb821925b90a1b87d155.jpg",
@@ -774,8 +706,7 @@
     {
       "id": 69,
       "name": "Trước kia có tòa Linh Kiếm Sơn",
-      "price": 356,
-      "rating": 2,
+      "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/55/74/98/557498db9081cba178e0e6c422251e93.jpg",
       "imgTwo": "https://i.pinimg.com/originals/77/8a/a7/778aa7f190d5acd277da2860eb26dd9f.jpg",
       "imgThree": "https://i.pinimg.com/originals/e6/2c/86/e62c86a7dbe2d528c51b670d2a578a5d.jpg",
@@ -785,8 +716,7 @@
     {
       "id": 70,
       "name": "Ta có một tòa nhà ma",
-      "price": 260,
-      "rating": 2,
+      "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/d2/8a/42/d28a4294ab3a786fa25901b4dd5b7e50.jpg",
       "imgTwo": "https://i.pinimg.com/originals/26/32/cd/2632cd718a2fb49c7dc32b95822ae969.jpg",
       "imgThree": "https://i.pinimg.com/originals/40/16/78/401678a2a327c861e5a8a6d06d5512dd.jpg",
@@ -796,7 +726,6 @@
     {
       "id": 71,
       "name": "Toàn cầu sụp đổ",
-      "price": 370,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/a1/0f/42/a10f426879aa41973351d62a810fcc1a.jpg",
       "imgTwo": "https://i.pinimg.com/originals/8e/f9/a8/8ef9a8418dbaed7b72cb033fb94f7712.jpg",
@@ -807,7 +736,6 @@
     {
       "id": 72,
       "name": "Cổ chân nhân",
-      "price": 393,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/7d/71/ad/7d71ad283159e44361984bf12ee6c5c2.jpg",
       "imgTwo": "https://i.pinimg.com/originals/73/9c/6f/739c6fc1f54024bdb1cce130d4f46a08.jpg",
@@ -818,7 +746,6 @@
     {
       "id": 73,
       "name": "Đệ nhất hoàn khố",
-      "price": 335,
       "rating": 4,
       "imgOne": "https://imagepi.otakusan.net/extendContent/Manga/Avatar/bd4155c6-9c65-4e8d-8ca0-3546792de508.jpeg",
       "imgTwo": "https://i.pinimg.com/originals/9c/df/b1/9cdfb13eccec9930ede984e1b06fc24c.jpg",
@@ -829,8 +756,7 @@
     {
       "id": 74,
       "name": "Đường Dần tại dị giới",
-      "price": 334,
-      "rating": 3,
+      "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/d9/1e/0c/d91e0c7ddb016c29bce8cad39a74c4b8.jpg",
       "imgTwo": "https://i.pinimg.com/originals/0c/7d/9e/0c7d9ea52a3c9187758c842241ea1dfb.jpg",
       "imgThree": "https://i.pinimg.com/originals/36/4d/dd/364dddb7fc654894afe3b0ac6a79a614.jpg",
@@ -840,7 +766,6 @@
     {
       "id": 75,
       "name": "Lưỡng bất nghi",
-      "price": 319,
       "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/79/9d/e7/799de7a2c5ab53b04cf89536cc68b4a5.jpg",
       "imgTwo": "https://i.pinimg.com/originals/e2/9b/9d/e29b9daa4f6f748147ad134bc6c661d7.jpg",
@@ -851,8 +776,7 @@
     {
       "id": 76,
       "name": "Bà xã nhà tôi đến từ ngàn năm trước",
-      "price": 309,
-      "rating": 4,
+      "rating": 5,
       "imgOne": "https://i.pinimg.com/originals/84/39/04/843904260bc279d5e8cd5ffb0146450b.jpg",
       "imgTwo": "https://i.pinimg.com/originals/96/16/ce/9616ce871f0655b0877473ec9a823d68.jpg",
       "imgThree": "https://i.pinimg.com/originals/3a/0d/1d/3a0d1d3d5b437f2033dfd217ab8b739e.jpg",
@@ -862,7 +786,6 @@
     {
       "id": 77,
       "name": "Bạn học tôi là lính đánh thuê",
-      "price": 349,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/ee/90/11/ee9011e66a965a987af62b8067edd4e8.jpg",
       "imgTwo": "https://i.pinimg.com/originals/b3/44/bc/b344bcdfe60a0eea1ce8284a6fa7769c.jpg",
@@ -873,7 +796,6 @@
     {
       "id": 78,
       "name": "Thánh cái khỉ gì, đây là sức mạnh của y học hiện đại",
-      "price": 322,
       "rating": 3,
       "imgOne": "https://i.pinimg.com/originals/6d/eb/ea/6debeadf60463addd15ffcd3c8a7dd6b.jpg",
       "imgTwo": "https://i.pinimg.com/originals/b2/02/9a/b2029aca3778c1a67b95a1ee267fafd7.jpg",
@@ -884,7 +806,6 @@
     {
       "id": 79,
       "name": "Chưởng môn khiêm tốn chút",
-      "price": 334,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/ac/d4/80/acd48070699180fd10294a5586ef4c80.jpg",
       "imgTwo": "https://i.pinimg.com/originals/84/5a/c0/845ac0256c533001a20355168fb5a23a.jpg",
@@ -895,12 +816,61 @@
     {
       "id": 80,
       "name": "Hoàng Hậu Ương Bướng",
-      "price": 234,
       "rating": 4,
       "imgOne": "https://i.pinimg.com/originals/32/e4/07/32e407f7824882f3f19c78b1466c85fe.jpg",
       "imgTwo": "https://i.pinimg.com/originals/fe/12/83/fe1283928e28f7d808720b7c6d436655.jpg",
       "imgThree": "https://i.pinimg.com/originals/47/f8/ca/47f8ca561de77b9d50d0230b9473d5b1.jpg",
       "text": "Vệ Du Cẩn biết mình đang nằm mơ, trong mơ, cô nhìn thấy một màn kịch. Là kịch cổ trang, nữ chính trong kịch vừa hay cũng tên Vệ Du Cẩn. mà cô lại diễn vai này, là hoàng hậu.",
+      "menu": "comic"
+    },
+    {
+      "id": 81,
+      "name": "Đồ Đệ Của Ta Đều Là Đại Phản Phái",
+      "rating": 3,
+      "imgOne": "https://i.pinimg.com/originals/38/33/3f/38333f1e333b009f1c2b1d3d6dd0cd21.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/67/62/7b/67627b283c6a0b6689c6b9965893b14d.jpg",
+      "imgThree": "https://i.pinimg.com/originals/13/5c/12/135c12ba683211272ead320d4c446958.jpg",
+      "text": "Lục Châu tỉnh lại sau giấc ngủ trở thành thế gian cường đại nhất già nhất ma đầu tổ sư gia, còn có chín cái tội ác chồng chất, uy chấn thiên hạ đồ đệ. Đại đồ đệ U Minh giáo giáo chủ thủ hạ ngàn vạn ma chúng, nhị đồ đệ Kiếm Ma một lời không hợp liền khai sát giới. . .Không có một thân tu vi, như thế nào dạy dỗ đám này ác đồ?.Đại đồ đệ Vu Chính Hải: 'Lão phu cả đời này đánh đâu thắng đó, ngoại trừ sư phụ lão nhân gia ông ta, ai cũng đừng nghĩ cưỡi trên đầu ta.'Thất đồ đệ Tư Vô Nhai: 'Sư phụ không chết, chúng ta ăn ngủ không yên a!'. . .Cửu đồ đệ Diên Nhi: 'Ta nhất định sẽ ghi nhớ sư phụ, làm người tốt.'",
+      "menu": "comic"
+    },
+    {
+      "id": 82,
+      "name": "Cường Giả Đến Từ Trại Tâm Thần",
+      "rating": 3,
+      "imgOne": "https://i.pinimg.com/originals/8d/df/ea/8ddfea94c0cbf3bac5c91c09ec14d834.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/47/7b/1a/477b1a35b5a5f44b9774d120fb1a2c62.jpg",
+      "imgThree": "https://i.pinimg.com/originals/73/5b/c2/735bc282f9a30fa1841cee0ff1f5f00d.jpg",
+      "text": "Bệnh viện tâm lý Thanh Sơn nằm trong danh sách hàng đầu về cơ sở y tế tâm thần. Với trang thiết bị hiện đại và môi trường tiêu chuẩn, bệnh viện này cam kết đảm bảo chất lượng phục vụ tốt nhất cho bệnh nhân. Những người chuyên gia, trong bộ đồ áo trắng, tỉ mỉ kiểm tra từng phòng bệnh và theo dõi tình trạng của các bệnh nhân. Mỗi phòng bệnh được thiết kế để chứa bốn người bệnh, và tại đây, họ sẽ được đánh giá và chẩn đoán bởi các chuyên gia tâm thần có kinh nghiệm. Với sứ mệnh chăm sóc sức khỏe tâm thần hàng đầu, bệnh viện tâm lý Thanh Sơn cam kết cung cấp môi trường an toàn và chuyên nghiệp để đảm bảo sự phục hồi và phát triển cho tất cả bệnh nhân của mình. Hành vi của bọn hắn khác hẳn với thường nhân, lại có thể rất tốt hình thành từng cái nho nhỏ quần thể. Có dõng dạc cao đàm luận rộng rãi...",
+      "menu": "comic"
+    },
+    {
+      "id": 83,
+      "name": "Công Tử Biệt Tú",
+      "rating": 4,
+      "imgOne": "https://i.pinimg.com/originals/55/ed/fd/55edfda475c4987799bc8fe428756d2d.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/79/ca/a0/79caa0f45bc481d8bf39723bad35858d.jpg",
+      "imgThree": "https://i.pinimg.com/originals/89/f4/3f/89f43ffd9732fcbeb6f8fc45a88b1141.jpg",
+      "text": "Lâm Tú tỉnh lại sau giấc ngủ, thế giới đã hoàn toàn khác biệt. Có người lực bạt sơn hà, khiêng phong cử đỉnh; có người đưa mắt ngàn dặm, nhìn một cái không sót gì; có người cưỡi gió mà đi, tiêu dao thiên địa; có người ẩn hình biệt tích, vô tung vô ảnh. . .Tú thì xong rồi.",
+      "menu": "comic"
+    },
+    {
+      "id": 84,
+      "name": "Tinh Giáp Hồn Tướng",
+      "rating": 4,
+      "imgOne": "https://i.pinimg.com/originals/72/22/04/72220466c5345a19cddbb5afde6dd5f4.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/80/4b/dc/804bdcfbe009f607b859acb735656a9d.jpg",
+      "imgThree": "https://i.pinimg.com/originals/64/e3/4c/64e34c1ed23f1ae4331b8ca1484fb4f8.jpg",
+      "text": "Tống Vân Tường, vị hoàng hồn sư cuối cùng của tộc người, được tái sinh vào thời điểm học trò. Trong kiếp trước, anh bị coi thường vì hồn mạch yếu đuối, chỉ có thể nhìn người thân ra đi mà không thể làm gì. Nhưng lần này, anh được hệ thống trọng sinh đưa trở lại với 60 năm kinh nghiệm và kiến thức kỹ thuật, để cứu rỗi trường học và mở ra con đường Tạo Cơ Giáp siêu cấp, sẵn sàng đánh bại mọi quái thú.",
+      "menu": "comic"
+    },
+    {
+      "id": 85,
+      "name": "Tuyệt Sắc Quyến Rũ: Quỷ Y Chí Tôn",
+      "rating": 4,
+      "imgOne": "https://i.pinimg.com/originals/33/7d/76/337d76813a6a1caa1475a24b18cdb869.jpg",
+      "imgTwo": "https://i.pinimg.com/originals/d6/09/f6/d609f6da22cba77d2c19a7062131b7b4.jpg",
+      "imgThree": "https://i.pinimg.com/originals/83/fd/31/83fd315ccceff2a708d1315f79ab1ef5.jpg",
+      "text": "Nàng, hiện đại Ẩn Môn môn chủ, tập các gia sở trường biến thái quỷ tài, tinh y độc, thiện ám sát, trong mắt người đời biến thái yêu vật, một lần ngoài ý muốn bỏ mình, lại trọng sinh ở một thiếu nữ bị hủy dung trên người. Cái gì? Dung nhan bị hủy, thân phận bị thay thế được? Trở về gia tộc xa xa không hẹn? Thân phận có thể không cần, gia tộc có thể không trở về, nhưng kia hại đời trước người, nàng nếu không chỉnh đến bọn họ gà bay chó sủa thảm không nỡ nhìn như thế nào không làm thất vọng nàng yêu vật chi danh? Một sớm phong vân sậu khởi, quần hùng tranh bá! Thả xem nàng như thế nào một bộ áo đỏ đi thiên hạ, kiếm chọn quần hùng chấn trời cao! Danh dương bổn biển kinh thiên địa!",
       "menu": "comic"
     }
   ]
