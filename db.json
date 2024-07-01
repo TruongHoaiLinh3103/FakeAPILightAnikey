@@ -895,6 +895,510 @@
       "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
       "text": "",
       "menu": "document"
+    },
+    {
+      "id": 110,
+      "name": "Sass",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/SCSS",
+      "menu": "document"
+    },
+    {
+      "id": 111,
+      "name": "React",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/REACTJS",
+      "menu": "document"
+    },
+    {
+      "id": 112,
+      "name": "Aos",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/AOS",
+      "menu": "document"
+    },
+    {
+      "id": 113,
+      "name": "Axios",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/AXIOS",
+      "menu": "document"
+    },
+    {
+      "id": 114,
+      "name": "Html",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/HTML",
+      "menu": "document"
+    },
+    {
+      "id": 115,
+      "name": "Next",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 116,
+      "name": "Dompurify",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 117,
+      "name": "Next-video",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 118,
+      "name": "Yup",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 119,
+      "name": "Styled-components",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 120,
+      "name": "React-slick",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 121,
+      "name": "Slugify",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 122,
+      "name": "React-simple-typewriter",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/React_Simple_Typewriter",
+      "menu": "document"
+    },
+    {
+      "id": 123,
+      "name": "React-icons",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 124,
+      "name": "Redux",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/REDUX",
+      "menu": "document"
+    },
+    {
+      "id": 125,
+      "name": "React-router-dom",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 126,
+      "name": "Copy-to-clipboard",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 127,
+      "name": "React-toastify",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/TOAST",
+      "menu": "document"
+    },
+    {
+      "id": 128,
+      "name": "Css",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://css-steel-eight.vercel.app",
+      "menu": "document"
+    },
+    {
+      "id": 129,
+      "name": "Javascript",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "https://truonghoailinh3103.github.io/JS",
+      "menu": "document"
+    },
+    {
+      "id": 130,
+      "name": "Node-sass",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 131,
+      "name": "React-dom",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 132,
+      "name": "React-scripts",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 133,
+      "name": "Web-vitals",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 134,
+      "name": "@fortawesome/fontawesome-svg-core",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 135,
+      "name": "@fortawesome/free-regular-svg-icons",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 136,
+      "name": "@fortawesome/free-solid-svg-icons",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 137,
+      "name": "@fortawesome/react-fontawesome",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 138,
+      "name": "Slick-carousel",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 139,
+      "name": "React-redux",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 140,
+      "name": "Redux-persist",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 141,
+      "name": "Visbug",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 142,
+      "name": "Responsive web design tester",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/07/ed/4a/07ed4af2693cbf2b764db908a44be3ac.jpg",
+      "text": "",
+      "menu": "document"
+    },
+    {
+      "id": 143,
+      "name": "Caramel Quái Dị",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/a6/0c/c4/a60cc4e0f91c09defc664181cac51ca1.jpg",
+      "text": "Mối nghiệt duyên của yêu quái bị phong ấn 800 năm và cô pháp sư kỳ quái.",
+      "menu": "comic"
+    },
+    {
+      "id": 144,
+      "name": "Nữ Đế Quốc Sư Xuyên Đến Hiện Đại",
+      "rating": 3,
+      "img": "https://i.pinimg.com/originals/ee/2e/95/ee2e95121b8c424c302b76f96dff6f39.jpg",
+      "text": "Truyện tranh Nữ Đế Quốc Sư Xuyên Đến Hiện Đại được cập nhật nhanh và đầy đủ nhất tại LightAnikey. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ LightAnikey ra các chương mới nhất của truyện Nữ Đế Quốc Sư Xuyên Đến Hiện Đại",
+      "menu": "comic"
+    },
+    {
+      "id": 145,
+      "name": "Trở Thành Cô Cháu Gái Bị Khinh Miệt Của Gia Tộc Võ Lâm",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/dd/af/18/ddaf18b75aa49b88aa04e0c031631a74.jpg",
+      "text": "Truyện tranh Trở Thành Cô Cháu Gái Bị Khinh Miệt Của Gia Tộc Võ Lâm được cập nhật nhanh và đầy đủ nhất tại LightAnikey. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ LightAnikey ra các chương mới nhất của truyện Trở Thành Cô Cháu Gái Bị Khinh Miệt Của Gia Tộc Võ Lâm",
+      "menu": "comic"
+    },
+    {
+      "id": 146,
+      "name": "Nữ Tướng Xuyên Đến Hiện Đại Trở Thành Chị Dâu Quyền Lực",
+      "rating": 5,
+      "img": "https://i.pinimg.com/originals/63/14/76/631476107fee6d88367c6cf6df9480bc.jpg",
+      "text": "Truyện tranh Nữ Tướng Xuyên Đến Hiện Đại Trở Thành Chị Dâu Quyền Lực được cập nhật nhanh và đầy đủ nhất tại LightAnikey. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ LightAnikey ra các chương mới nhất của truyện Nữ Tướng Xuyên Đến Hiện Đại Trở Thành Chị Dâu Quyền Lực",
+      "menu": "comic"
+    },
+    {
+      "id": 147,
+      "name": "Thiều quang mạn",
+      "rating": 5,
+      "img": "https://i.pinimg.com/originals/66/1d/3d/661d3de3a713059ed07daf41b4e448fe.jpg",
+      "text": "Truyện tranh Thiều quang mạn được cập nhật nhanh và đầy đủ nhất tại LightAnikey. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ LightAnikey ra các chương mới nhất của truyện Thiều quang mạn",
+      "menu": "comic"
+    },
+    {
+      "id": 148,
+      "name": "Phong linh ngọc tú",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/d2/d3/13/d2d313e2bb78bcdf412867affb66efef.jpg",
+      "text": "Phi tặc Phong Linh Nhi và Bạch Ngọc Tụ - con gái một vị thương gia cùng nhau tiêu dao xông pha giang hồ, lại không biết rằng có một âm mưu cực kỳ lớn đang đợi họ",
+      "menu": "comic"
+    },
+    {
+      "id": 149,
+      "name": "Họa Giang Hồ Chi Bất Lương Nhân",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/9e/86/5a/9e865aa3050fbd94f062b3ff6c53a1f7.jpg",
+      "text": "Câu chuyện trong Hoạ Giang Hồ Chi Bất Lương Nhân chủ yếu xoay quanh 4 nhân vật chính từng là kẻ địch, sau đó kết giao hảo hữu và cùng nhau hành tẩu giang hồ. Lý Tinh Vân, do cơ duyên xảo hợp được ẩn sĩ Dương Thúc Tử cứu giúp, sau đã nhập môn học võ cùng người. Nhiều năm sau đó, Lý Tinh Vân cùng sư muội Lục Lâm Hiên hạ sơn trải nghiệm, trên đường hành tẩu đã quen biết được 2 hảo hữu là Cơ Như Tuyết cùng Trương Tử Phàm, về sau lại ngẫu nhiên mà có được Long Tuyền kiếm trong truyền thuyết.",
+      "menu": "comic"
+    },
+    {
+      "id": 150,
+      "name": "Tân thời minh nguyệt",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/5a/ac/53/5aac539b9d9d827952fff0bef7afbdd5.jpg",
+      "text": "Lấy bối cảnh thời cuộc lúc bấy giờ đã định, nhưng loạn thế chưa chấm dứt. Thiên hạ đệ nhất kiếm khách, cận vệ của Tần Thủy Hoàng, Cái Nhiếp, dẫn con trai của một cố nhân, lẩn tránh sự truy sát của Tần Vương. Lúc này cậu bé Thiên Minh vẫn hoàn toàn không hay biết gì về thân phận thực sự của mình. Bàn tay số mệnh dần dần cuộn mở bức tranh tươi sáng. Tại biên cảnh Tần quốc, Tàn Nguyệt cốc, Cái Nhiếp một người một kiếm diệt 300 thiết kỵ quân Tần. Doanh Chính phẫn nộ, lệnh cho thừa tướng Lý Tư phải tìm cách diệt trừ tất cả thế lực chống Tần. Lý Tư đề xuất sách lược dĩ độc công độc, dùng giang hồ để diệt giang hồ. Quỷ Cốc truyền nhân - quý tộc nước Hàn là Vệ Trang, 12 năm trước vốn là đồng môn sư đệ với Cái Nhiếp, lúc nào cũng nung nấu ý định đánh bại Cái Nhiếp, đoạt lấy danh hiệu đệ nhất kiếm. Vì vậy y đã bất chấp nhục thân, tu luyện cấm thuật của Quỷ Cốc phái, thực lực cao thâm khôn lường. Lý Tư dùng Cái Nhiếp làm mồi nhử, dụ Vệ Trang xuất kích. Trên đường đào vong, Thiên Minh đã kết giao với hậu nhân tướng quân nước Sở là Thiếu Vũ, cùng các cao thủ của Mặc gia, và thiếu nữ có thân thế bí ẩn Cao Nguyệt. Lúc này thủ hạ của Vệ Trang là Tứ đại thiên vương cũng lần lượt xuất hiện truy sát bọn người Thiên Minh...",
+      "menu": "comic"
+    },
+    {
+      "id": 151,
+      "name": "Black Clover",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/39/85/f6/3985f64a75498b767ee19c8fe954c1c3.jpg",
+      "text": "Black Clover lấy bối cảnh tại một thế giới xem ma pháp là một phần không thể thiếu của cuộc sống. Ở đây, mỗi người đều có khả năng sử dụng ma pháp, trừ một chàng trai tên là Asta. Dù không có khả năng sử dụng ma pháp, Asta vẫn quyết tâm trở thành Ma pháp Vương – người mạnh nhất trong Vương quốc Clover. Cuộc sống của Asta thay đổi khi anh nhận được thanh kiếm Black Clover – một vũ khí huyền thoại có khả năng hủy diệt ma pháp. Cùng với người bạn thân Yuno, người có khả năng ma pháp thiên phú, Asta gia nhập Đội Magic Knights của Vương quốc Clover để thực hiện ước mơ của mình...",
+      "menu": "comic"
+    },
+    {
+      "id": 152,
+      "name": "Magi - Mê Cung Thần Thoại",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/33/39/0c/33390cf5eae0831276dc21655142dba9.jpg",
+      "text": "Sau một thời gian dài sống tách biệt với thế giới bên ngoài, một cậu bé tên Aladdin quyết định du hành ra thế giới cùng với 'người bạn' Ugo của mình, một Djinn chứa trong cây sáo của Aladdin, cho đến khi cậu gặp Alibaba Saluja, một chàng trai trẻ mong muốn một ngày nào đó có thể khám phá Mê cung Amon và lấy được kho báu của nó. Aladdin và Alibaba cuối cùng kết nghĩa huynh đệ và cùng nhau chinh phục Amon, cho dù có phải chống lại Jamil tàn nhẫn và các chiến binh nô lệ của hắn: Morgiana và Goltas. Sau một trận chiến đầy cam go, hai nhân vật chính đã hạ gục Jamil và giúp đỡ Morgiana phá vỡ xiềng xích tinh thần đã trói buộc nàng với chủ cũ. Alibaba chinh phục được mê cung khi Djinn Amon xuất hiện trước mặt Aladdin để giải thích ngắn gọn rằng cậu bé thật ra là một Magi và Alibaba chính là ứng cử viên 'Vương thần khí' của cậu. Tuy nhiên, cuộc nói chuyện bị gián đoạn bởi một thế lực bên ngoài đang cố gắng đóng cửa Mê cung. Alibaba, Aladdin và Morgiana thoát khỏi Mê cung trong khi Goltas quyết định ở lại chết kéo theo tên chủ cũ để chuộc lại lỗi lầm trong quá khứ của mình nhưng không phải trước khi cắt đứt xiềng xích của Morgiana. Vì lý do nào đó, Aladdin cuối cùng bị dịch chuyển đến một vùng đất xa xôi, cách xa những người khác, nơi cậu biết được Magi là gì và cậu là một trong số đó. Không có tin tức gì về bạn mình, Alibaba sử dụng kho báu mà chàng có được ở Amon để giải phóng tất cả nô lệ trong thành phố, bao gồm cả Morgiana và trở về Balbadd, quê hương của chàng. Sau khi trải qua một cuộc phiêu lưu dài ở nhiều vùng đất khác nhau, Aladdin và Morgiana bắt gặp một người đàn ông đang khỏa thân tên là Sinbad, 'Người chinh phục Mê cung' đầu tiên và hiện là quốc vương của đảo quốc Sindria, ngài đã bị một băng cướp trấn lột hết cả bảy 'kim thần khí' của mình. Cuối cùng họ đoàn tụ với Alibaba ở Balbadd, nơi họ biết rằng chàng đã gia nhập Băng cướp Sương mù, một tổ chức của những tên cướp chống lại sự cai trị tàn bạo của Vua Abhmad, anh em cùng cha khác mẹ của Alibaba. Được giúp đỡ bởi Aladdin, Morgiana và vua Sinbad (khi đã lấy lại được thần khí của mình), Alibaba đã dàn xếp một cuộc chính biến lật đổ chế độ quân chủ và thiết lập một nền cộng hòa ở Balbadd. Tuy nhiên, Balbadd cuối cùng lại bị sáp nhập vào Đế quốc Kou, một quốc gia phương Đông hùng mạnh có âm mưu chinh phục toàn bộ thế giới núp dưới danh nghĩa chấm dứt mọi xung đột giữa các quốc gia. Sau các sự kiện ở Balbadd, Aladdin, Alibaba và Morgiana được đưa đến Sindria, nơi họ được huấn luyện bởi những người hầu của Sinbad để nâng cao kỹ năng của họ và giúp nhà vua thực hiện nhiệm vụ ngăn chặn âm mưu của một tổ chức thần bí Al-Thamen hoạt động trong bóng tối để gieo rắc sự hỗn loạn lan rộng khắp thế giới. Bộ ba cuối cùng kết bạn với Ren Hakuryuu, một hoàng tử của Đế quốc Kou đến thăm Sindria và là người họ giúp chinh phục Mê cung Zagan. Sau khi đối đầu với các thành viên của Al-Thamen, Aladdin và những người bạn của mình đi những con đường riêng vì lý do cá nhân, hứa hẹn sẽ tái hợp với nhau trong tương lai. Aladdin ghi danh vào Học viện Magnostadt, một nơi mà pháp sư được coi là công dân cấp cao hơn so với những người đồng loại bình thường của họ để nghiên cứu ma thuật và điều tra các mối quan hệ của đất nước với tổ chức Al-Thamen. Alibaba lên đường để tập luyện với các võ sĩ giác đấu Yambala thuộc Đế quốc Reim theo đề nghị để cải thiện kiếm kĩ của mình và học cách điều khiển magoi để có thể hoàn thiện thần khí của mình. Hakuryuu trở về Đế quốc Kou. Còn Morgiana khởi hành đến Lục địa đen để thực hiện ước mơ trở về quê nhà. Một năm sau, Aladdin và Alibaba được đoàn tụ trong lúc Reim phát động chiến dịch để chinh phục Magnostadt. Sau khi giúp bảo vệ thành phố, Đế quốc Kou phát động một cuộc tấn công bất ngờ. Với hy vọng ngăn không cho nhiều pháp sư gục ngã thêm nữa trong trận chiến, thủ lĩnh của thành bang, Matal Mogamett, triệu tập một đội quân Dark Djinn với một khối lượng lớn Black Rukh được tích trữ ở tầng sâu nhất để đánh bại quân xâm lược. Tuy nhiên, Aladdin nhận thức được rằng bằng cách này, Mogamett bất đắc dĩ giúp Al-Thamen đến gần hơn với mục tiêu chính của chúng, đó là triệu hồi vị thần của Ill Ilah, kẻ có ác tâm hủy diệt thế giới. Để ngăn chặn điều đó xảy ra, Aladdin và những người bạn của mình hợp tác với Đế quốc Kou, Đế quốc Reim và liên minh của Sinbad, Liên minh Thất Hải để ngăn chặn âm mưu triệu hồi. Vài tháng sau, đại diện của Kou, Reim và Sindria tập trung tại một hội nghị thượng đỉnh do Sinbad tổ chức. Tại hội nghị thượng đỉnh, Aladdin tiết lộ rằng loài người ban đầu là một số loài riêng biệt được biến đổi bằng ma thuật thành người là những người có nguồn gốc từ thế giới của Alma-Torran, nằm ở một chiều không gian khác. Cựu thần của thế giới này là Ill Ilah, người đã bị cha của Aladdin, vua Solomon đánh cắp magoi để tạo ra một số phận thuận lợi cho người dân Alma-Torran. Chống lại sự thay đổi này, các thành viên của Al-Thamen đã triệu tập Ill llah đến thế giới để chúng có thể lấy lại magoi của mình. Điều này đã phá hủy thế giới của tất cả sự sống và buộc Solomon phải từ bỏ mạng sống của mình để phong tỏa Ill Ilah và Al-Thamen cùng với nó. Solomon đã đưa magoi của mình cho Ugo và Ugo lưu trữ tất cả các magoi trong Cung điện Linh thiêng và sử dụng nó để tạo ra thế giới hiện tại, hệ thống Magi và đưa mọi người từ Alma-Torran đến thế giới này. Tuy nhiên, hội nghị thượng đỉnh bị gián đoạn khi Ren Hakuryuu và Judar, Magi hướng đạo của cậu khởi động cuộc nội chiến ở Đế quốc Kou. Aladdin và Alibaba bay đến trung tâm của Đế quốc Kou để nói lý với Hakuryuu, tuy nhiên, họ nhận ra cậu đã rơi vào tình trạng sa đọa. Hai cặp đôi chiến đấu với nhau và kết quả là cả Alibaba với Judar đều bị thương nặng. Hakuryuu tự thân chiến đấu bằng trang bị thần khí Belial mới đoạt được nhưng bị cạn kiệt magoi, buộc phải nhờ đến sự trợ giúp của Sinbad. Sau khi chiến tranh kết thúc, Sinbad đã nhận ra kế hoạch của mình là sẽ nắm giữ quyền lực của hầu hết tất cả các cường quốc trên thế giới được tập hợp chúng thành một siêu liên hiệp quốc gia, gọi là 'Liên minh quốc tế' và mở ra một kỷ nguyên hòa bình và thịnh vượng mới cho thế giới, trong khi Aladdin, Morgiana và Hakuryuu tiếp tục đi theo những con đường khác nhau. Cũng trong lúc đó, một Judar hồi sinh và Alibaba đã gặp nhau ở phía bên kia Lục địa Đen, nơi họ gặp Mẹ Rồng, người quyết định giúp họ trở về đất liền, tuy nhiên đây sẽ là một hành trình dài. Trên đường du hành trở về, Mẹ Rồng đã tiết lộ rằng nhân cách của Ill Ilah đã bị David, cha của vua Solomon và cũng có nghĩa là ông nội của Aladdin làm cho tha hóa. Lão cũng được tiết lộ là có mối liên hệ với Sinbad và muốn trở thành Đấng của tất cả. Ba năm sau, Alibaba xuất hiện trở lại và đoàn tụ với bạn bè sau khi họ đánh bại Arba, dường như tiêu diệt Al-Thamen mãi mãi. Tuy nhiên, linh hồn của Arba quay sang Sinbad và cùng nhau, họ đến Cung điện Linh thiêng nơi Ugo trú ngụ. Bằng cách đánh bại Ugo và tuyên bố quyền sở hữu cung điện, Sinbad tuyên bố rằng linh hồn của mọi sinh vật trên Trái đất sẽ được gửi trở lại Rukh, chấm dứt vòng xoáy của sự sống và cái chết, chắc chắn rằng không có cách nào khác để đạt được hòa bình và hạnh phúc vĩnh cửu cho tất cả. Aladdin, Alibaba, Hakuryuu và Judar hợp lực để đối đầu với Sinbad, nhưng ngay sau khi họ đạt được thỏa hiệp với ngài, David xuất hiện và kiểm soát Cung điện Linh thiêng, vì trả lại tất cả linh hồn cho Rukh là kế hoạch ban đầu của lão. Sau khi cùng nhau đánh bại David và phá hủy hệ thống Rukh, thế giới phải chịu những thay đổi lớn và phép thuật đã không còn, khiến các quốc gia buộc phải nỗ lực hợp tác cùng nhau để tạo dựng một tương lai tốt đẹp hơn.",
+      "menu": "comic"
+    },
+    {
+      "id": 153,
+      "name": "Akame Ga Kill!",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/0e/90/ef/0e90ef44e2b2891581bef5e8783ba4a8.jpg",
+      "text": "Night Raid là nhánh ám sát bí mật của Quân đội Cách mạng, một cuộc nổi dậy được tập hợp để lật đổ Thủ tướng Honest, kẻ hám lợi và tham lam quyền lực đã khiến anh ta lợi dụng sự non nớt của vị hoàng đế. Nếu không có một nhà lãnh đạo mạnh mẽ và nhân từ, phần còn lại của quốc gia sẽ chìm trong đói nghèo, xung đột và đổ nát.",
+      "menu": "comic"
+    },
+    {
+      "id": 154,
+      "name": "Hiệp can nghĩa đảm Thẩm Kiếm Tâm",
+      "rating": 3,
+      "img": "https://i.pinimg.com/originals/8f/28/69/8f2869ed1ae8945ad3b3f828eb0a089d.jpg",
+      "text": "Thẩm Kiếm Tâm vốn là một bảo an của thôn Đạo Hương, tuy là một người bình thường nhưng lại ôm chí lớn trở thành đại hiệp giang hồ. Sau khi vào đại môn phái - Thuần Dương cung, anh trời xui đất khiến mà lĩnh ngộ tuyệt học của Thuần Dương cung, nhưng bản thân lại không hề hay biết. Vì vậy, Thẩm Kiếm Tâm quyết chí nhập giang hồ, viết lên con đường của bản thân. Trên bước đường đại hiệp của mình, anh lần lượt phá tan âm mưu đen tối của Minh giáo, Hồng Y giáo, Đường môn; cứu giúp những người trong hoàn cảnh khó khăn, rụng tóc, hỏa hoạn, cướp giật,...",
+      "menu": "comic"
+    },
+    {
+      "id": 155,
+      "name": "Tokyo Ghoul",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/9b/6a/33/9b6a335862cde390d4c29dc7cf505298.jpg",
+      "text": "Truyện lấy bối cảnh thời hiện đại, một thế giới hoàn toàn khác khi mà loài người không phải loài đứng đầu chuỗi thức ăn, có một loài sinh vật khát máu, mang hình dạng giống con người nhưng phát triển hơn với những khả năng đặc biệt để trở thành kẻ đi săn, và con mồi chính là loài người, vốn tưởng mình làm chủ thế giới. Không cam chịu làm kẻ bị săn, loài người đứng lên chống lại loài sinh vật kia - Ghoul (喰種グール (Thực Chủng) Gūru?, 'chủng loài ăn thịt'). CCG (Ủy ban chống Ghoul) ra đời, đào tạo 1 lực lượng các thanh tra có kỹ năng chiến đấu cao nhằm chống lại sự tàn sát con người của Ghoul. Kaneki Ken (nhân vật chính của bộ truyện) vốn là 1 sinh viên đại học bình thường, hiền lành và mê đọc sách. Vì một sự cố, Kaneki được cấy ghép nội tạng từ một Ghoul được cho là đã chết, Kamishiro Rize - kẻ đã định giết anh trước khi cô ta bị giết bởi đống thép xà ngang xây dựng đột ngột rơi xuống. Từ đó, anh phải vật lộn để sống cuộc sống nửa người/nửa Ghoul, bao gồm cả việc hòa nhập vào thế giới của Ghoul đồng thời đối phó với kẻ thù trong khi luôn phải giữ kín thân phận bí mật của mình với những người khác.",
+      "menu": "comic"
+    },
+    {
+      "id": 156,
+      "name": "Nurarihyon no Mago(Bách quỷ dạ hành)",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/38/b0/dc/38b0dcfabe51fc2a81d42515adcc24c0.jpg",
+      "text": "Rikuo Nura là ba phần tư con người và một phần tư yêu quái , anh ta có hình dạng con người vào ban ngày nhưng biến thành hình dạng yêu quái vào ban đêm. Anh ấy sống trong một ngôi nhà đầy yêu quái cùng với ông nội yêu quái của mình . Cố gắng thoát khỏi số phận của mình, Rikuo làm những việc tốt để tránh trở thành yêu quái , bất chấp mong muốn của ông nội rằng Rikuo sẽ kế vị ông trở thành Người thừa kế thứ ba của Gia tộc Nura. Rikuo khác biệt vì anh ấy giúp đỡ con người. Cuối cùng anh ta cũng chấp nhận được dòng máu yêu quái của mình và quyết định đảm nhận vị trí Người thừa kế thứ ba của Gia tộc Nura. Nhiều phe phái nhằm mục đích ngăn chặn anh ta hoặc chiếm đoạt vị trí của anh ta, và anh ta phải tập hợp bạn bè và đồng minh, một Hyakki Yakō mới dưới ngọn cờ 'Sợ hãi' của mình.",
+      "menu": "comic"
+    },
+    {
+      "id": 157,
+      "name": "Re:Zero − Bắt đầu lại ở thế giới khác",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/b9/9f/81/b99f81d58c7a1afa5974b04f0482f52b.jpg",
+      "text": "Natsuki Subaru là một NEET không làm gì khác ngoài việc chơi game. Một đêm, sau khi ghé thăm một cửa hàng tiện lợi, anh ta đột nhiên bị triệu hồi đến một thế giới khác. Với việc không có dấu vết cho thấy ai đã triệu hồi cậu, cậu nhanh chóng kết bạn với một cô gái bán yêu tinh với mái tóc bạch kim, người tự giới thiệu mình là Satella, và bạn đồng hành của cô ấy là Puck. Satella nói rằng huy hiệu của cô đã bị đánh cắp bởi một tên trộm tên là Felt. Khi anh và 'Satella' bị giết một cách bí ẩn, Subaru tỉnh dậy và phát hiện ra rằng cậu đã có được một khả năng mà anh đặt tên là 'Return by Death', cho phép cậu đảo ngược thời gian bằng cách chết. Cậu chào 'Satella' một lần nữa, nhưng cô ấy cảm thấy bị xúc phạm khi được gọi bằng cái tên 'Satella', ám chỉ 'Phù thủy ghen tuông' và được coi là một điều cấm kỵ. Với sự giúp đỡ của Reinhard (một hiệp sĩ) ở dòng thời gian khác, Subaru đã cứu sống 'Satella' khỏi tay sát thủ Elsa; cô tiết lộ rằng tên thật của cô là Emilia, và để trả ơn, Felt trả lại huy hiệu cho cô. Khi đang hồi phục tại dinh thự của Roswaal, pháp sư Beatrice đã hút cạn mana của Subaru. Sau khi tỉnh dậy, anh gặp hai người hầu gái song sinh Ram và Rem, cũng như Roswaal, người đã thuê anh làm quản gia theo yêu cầu của Subaru. Roswaal tiết lộ rằng Emilia cần huy hiệu để đủ điều kiện trở thành ứng cử viên trong cuộc bầu cử hoàng gia sắp tới. Sau khi chết một lần nữa một cách bí ẩn, Subaru quyết định điều tra cái chết của mình, và cố gắng tái tạo lại những sự việc. Sau một loạt những cái chết đau đớn và hồi sinh, anh biết rằng một lời nguyền đã được đặt lên mình, sau đó suy ra nó đến từ một ngôi làng mà anh đã đến thăm trước đó, đồng thời giải quyết mối hận thù mãnh liệt của Rem đối với phù thủy. Cuối cùng, ngôi làng bị đe dọa bởi những sinh vật được gọi là mabeast, ma thú được cho là do một phù thủy tạo ra để quét sạch loài người, vì vậy Subaru, Rem và Ram phải giải cứu dân làng. Sau đó, Emilia được gọi đến thủ đô bởi hai thành viên của Crusch's Camp, Wilhelm và Felix, một phần của Đội cận vệ Hoàng gia để bắt đầu cuộc tuyển chọn hoàng gia. Tại đây, nhóm Subaru gặp những ứng cử viên hoàng gia khác: Priscilla, Crusch, Anastasia và Felt; và các hiệp sĩ của họ, Aldebaran, Julius, và Reinhard. Ban đầu Felt thông báo rằng cô ấy sẽ không tham gia vào cuộc bầu cử, và Subaru tuyên bố mình là hiệp sĩ của Emilia. Sau một cuộc chiến công khai với Julius khiến Subaru bị thương nặng, cậu đã cãi nhau với Emilia, và cô quyết định cắt đứt quan hệ với Subaru. Sau khi hồi phục, Subaru quyết định tập luyện dưới trướng Wilhelm, trong khi Felix khuyên cậu nên làm lành với Emilia. Rem sau đó cảnh báo Subaru rằng có điều gì đó đang xảy ra tại dinh thự, và không nghe theo lời cảnh báo của Crusch và Felix cũng như của Rem, Subaru quyết định quay trở lại dinh thự. Tại đây, cậu kinh hãi phát hiện ra nhiều xác chết, bao gồm cả xác của Rem. Sau khi chết và hồi sinh một lần nữa, Subaru bị phục kích bởi một nhóm được gọi là Giáo phái Phù thủy và gặp thủ lĩnh điên loạn, Petelgeuse, người sau đó tra tấn Subaru và giết Rem bằng khả năng gọi là 'Bàn tay tàng hình'. Sau khi bị giết bởi một Puck quái dị, Subaru hồi sinh và nguyền rủa Petelgeuse. Biết rằng dinh thự và ngôi làng sẽ bị tấn công, Subaru tìm kiếm sự giúp đỡ từ các ứng viên hoàng gia khác, nhưng họ đều từ chối. Trong khi sơ tán, cậu gặp phải một con quái vật huyền thoại được gọi là Cá voi trắng. Rem hy sinh bản thân để cho Subaru trốn thoát. Sau khi trở về dinh thự, Subaru chạm trán với Ram và Emilia, những người không còn nhớ gì về Rem. Băn khoăn với tình hình, Subaru tiết lộ khả năng 'Trở lại bằng cái chết' của mình cho Emilia, chỉ để cô ấy chết sau đó. Subaru, bị sốc trước những gì vừa xảy ra yêu cầu Beatrice giết anh ta, cô từ chối và gửi anh ta đến một nơi mà cô không thể nhìn thấy anh ta. Puck tức giận, biến hình và giết Petelgeuse cùng giáo phái của hắn, sau đó đóng băng Subaru đến chết như hình phạt cho cái chết của Emilia. Sau khi hồi sinh, Subaru, sau khi rơi vào tuyệt vọng hoàn toàn, đã nói chuyện nghiêm túc với Rem, yêu cầu cô chạy trốn cùng anh ta. Tuy nhiên, Rem khuyến khích Subaru không từ bỏ và thổ lộ tình yêu của cô dành cho anh, vì đã biết rằng trái tim anh là dành cho Emilia. Với quyết tâm mới đạt được, Subaru quyết định rằng anh sẽ bắt đầu lại từ con số không. Subaru và Rem sau đó chiến đấu chống lại Cá voi trắng, sau khi liên minh thành công với trại của Crusch và Anastasia. Sau một trận chiến lâu dài và cam go, cuối cùng Wilhelm đã giết được Cá voi trắng, do đó trả thù cho cái chết của vợ mình. Cuối cùng, với sự giúp đỡ của các đồng minh mới, Subaru cuối cùng cũng có thể đánh bại Petelgeuse và giáo phái của hắn, cứu sống Emilia và dân làng. Sau khi hòa giải với Emilia, Subaru thú nhận tình yêu của mình dành cho cô, khiến Emilia rơi nước mắt cảm ơn Subaru vì đã cứu cô. Tuy nhiên, khi Subaru đặt câu hỏi về lời thú nhận của mình liên quan đến Rem, Emilia đã không nhớ lại Rem lần thứ hai, khiến Subaru bị sốc.",
+      "menu": "comic"
+    },
+    {
+      "id": 158,
+      "name": "Suzume no tojimari(Khóa chặt cửa nào Suzume)",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/a3/97/f1/a397f1f8f03b4526838a93b939d3ae15.jpg",
+      "text": "Câu chuyện bắt đầu khi Suzume vô tình gặp chàng trai Souta đến thị trấn nơi cô sinh sống với mục đích tìm kiếm “một cánh cửa”. Để bảo vệ Nhật Bản khỏi thảm họa, những cánh cửa rải rác khắp nơi phải được đóng lại, và bất ngờ thay Suzume cũng có khả năng đóng cửa đặc biệt này. Từ đó cả hai cùng nhau thực hiện sự mệnh “khóa chặt cửa”!",
+      "menu": "comic"
+    },
+    {
+      "id": 159,
+      "name": "Song Tinh Diệt Quỷ Sư",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/fa/7b/d3/fa7bd34e55ac6715a3167567243835bc.jpg",
+      "text": "Rokuro chỉ có một ước mơ duy nhất là trở thành Diệt Quỷ Sư ! Rồi Benio bí ẩn xuất hiện. Họ được gán cho cái tên “Song Tinh Diệt Quỷ Sư” và được định sẵn để kết hôn với nhau… Liệu Rokuro có thể thoát khỏi hai số mệnh này? Khi Ryogo, bạn thân của Rokuro, mất tích, cậu buộc phải nhờ Benio giúp đỡ để vào Magano, lãnh địa của con quỷ Kegare, để cứu bạn mình!",
+      "menu": "comic"
+    },
+    {
+      "id": 160,
+      "name": "Nhân Vật Phản Diện Đại Sư Huynh, Tất Cả Các Sư Muội Đều Là Bệnh Kiều",
+      "rating": 3,
+      "img": "https://i.pinimg.com/originals/9f/3d/3e/9f3d3ed3c283a59856c2cd6348710505.jpg",
+      "text": "Xuyên qua sảng văn, thành Thanh Lam tông nhân vật phản diện Đại sư huynh! Chỉ cần dựa theo nguyên tác kịch bản đi, làm cái làm người buồn nôn nhân vật phản diện, liền có thể thành tiên phi thăng! Bất đắc dĩ, Lâm Tiêu chỉ có thể không có việc gì trêu đùa Tứ sư muội, trộm một tay Tam sư muội cái yếm, hướng Nhị sư muội trong nước hạ điểm mãnh dược, thực hiện nhân vật phản diện chức trách. Rốt cục nhịn đến nam chính Diệp Thần bái nhập sư môn hôm nay! Lâm Tiêu hưng phấn không thôi, chuẩn bị độc hại nam chính , dựa theo kịch bản, hắn sẽ bị mấy vị sư muội bắt lấy, bị nam chính Phi Long kỵ kiểm! Không nghĩ tới. . . Nhị sư muội: Đại sư huynh vẫn là quá thiện lương, điểm ấy độc làm sao đủ! Xem ta! Tam sư muội: Giết Diệp Thần, b·ắt c·óc Đại sư huynh! Hắn là ta một người! Tứ sư muội: Giết sạch tất cả mọi người. . . Sáng tạo một cái chỉ có Đại sư huynh thế giới! Mỹ nữ sư tôn: Liền phía sau hạ độc cũng đáng yêu như thế, không hổ là đồ nhi ngoan của ta đâu. Lâm Tiêu: (⊙ˍ⊙) các ngươi ngược lại là đọc phía dưới kịch bản a! Đáng g·iết là ta à!",
+      "menu": "comic"
+    },
+    {
+      "id": 161,
+      "name": "Bởi Vì Cẩn Thận Mà Quá Phận Hung Ác",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/12/96/5a/12965ae32cace28fed8659d5163f9b65.jpg",
+      "text": "Quỷ dị trò chơi giáng lâm, đem toàn bộ nhân loại kéo vào quỷ dị thế giới hoàn thành khủng bố nhiệm vụ, thất bại là khấu trừ sinh mệnh điểm số, điểm số về không t·ử v·ong! Nào đó trứ danh bác sĩ tâm lý Triệu Nhất cũng bị kéo vào màn trò chơi này, nhưng hắn số liệu nguyên dấu hiệu lại xuất hiện không biết hỗn loạn. Thế là, một cái để cho tất cả quỷ quái đều run lẩy bẩy không phải nhân loại bình thường xuất hiện! Thích khóc quỷ: Ta chỉ là muốn ban bố một cái chi nhánh nhiệm vụ cho hắn, hắn lại c·hặt đ·ầu ta! Bạo lực gia đình quỷ: Ta chỉ muốn đi bệnh viện cắt cái ruột thừa, kết quả không nghĩ tới giải phẫu xong liền mẹ nó thừa ruột thừa ... Mới vừa bị triệu hoán đi ra Tà Thần, nhìn xem trước mặt cầm trong tay bộ đồ ăn, sắc mặt hưng phấn vừa đói khát Triệu Nhất, không khỏi rơi vào trầm tư ...",
+      "menu": "comic"
+    },
+    {
+      "id": 162,
+      "name": "Đại Chu Tiên Lại",
+      "rating": 3,
+      "img": "https://i.pinimg.com/originals/7d/d0/8b/7dd08b9615575be58b6bea333622ba87.jpg",
+      "text": "Xuyên qua thế giới tiên hiệp yêu mị mọc lan tràn, quần ma loạn vũ, Lý Mộ bắt đầu thật chỉ muốn sống tạm, nhưng hắn trong lúc vô tình cứu được tiểu hồ ly bỗng nhiên miệng nói tiếng người, nói muốn lấy thân báo đáp. . . Đây là một cố sự về thanh niên hiện đại xuyên qua thế giới tiên hiệp, trảm yêu trừ ma, giúp đỡ chính nghĩa.",
+      "menu": "comic"
+    },
+    {
+      "id": 163,
+      "name": "Lời Nguyền Của Dangun",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/e0/58/10/e05810da7e55f2933d5563a867f95cc5.jpg",
+      "text": "Hành trình tìm ra lời giải cho lời nguyền cổ xưa của dangun.",
+      "menu": "comic"
+    },
+    {
+      "id": 164,
+      "name": "Tôn thượng",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/50/61/2f/50612f7ca3b3fc42fc7061af93606979.jpg",
+      "text": "Thượng Cổ chung kết thời gian, chư thiên hạo kiếp giáng lâm, Thiên Đạo bắt đầu Thẩm Phán thế gian tất cả tội ác Là một người đã từng Vấn Đỉnh Tiên Ma Vô Song vương tọa, chúa tể quá Cửu U đế toà chủ nhân, Cổ Thanh Phong đã sớm b·ị đ·ánh tới tội ác nhãn mác Đối mặt Thiên Đạo vô tận Thẩm Phán, Cổ Thanh Phong vô lực phản kháng, căn cơ bị hủy, vương tọa bị đoạt. . . Một đời thành tựu hết mức hủy diệt, cuối cùng càng bị Thiên Đạo đánh về thân thể phàm thai. . . Khi hắn ở mình nghĩa trang lần thứ hai thức tỉnh, Kim Cổ đã qua trăm năm, mà tên của hắn từ lâu trở thành thời đại thượng cổ những kia truyền kỳ cố sự trong truyền thuyết.",
+      "menu": "comic"
+    },
+    {
+      "id": 165,
+      "name": "Ta Dùng Cơ Bắp Xưng Bá Tu Tiên Giới",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/d1/39/3d/d1393d7932750be17297684d522a9fc6.jpg",
+      "text": "Chấn kinh! Đỉnh cấp đại lão lại bị một bộ tập thể dục theo đài đánh bại! Quyền đả khí vận cường giả, chân đá tu tiên đại năng, không có linh căn, không cách nào vận dụng linh khí, lại dựa vào một thân cơ bắp đạp lên tu tiên đỉnh phong.",
+      "menu": "comic"
+    },
+    {
+      "id": 166,
+      "name": "Đồ Đệ Nhà Ta Lại Quải Rồi",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/ed/b0/d9/edb0d9af02fde0999d423c6bace962b6.jpg",
+      "text": "Ngọc Ngôn Tôn Thượng được xưng là tu tiên giới đệ nhất nhân, đợi 1 vạn 6000 năm cuối cùng cũng nhận được một đồ đệ, tỉ mỉ dạy bảo, che chở, sau đó . . . nàng quải ( ~ chết, nhưng quải dùng nhiều trong game hơn ). Vì thế hắn lại thu một đồ đệ tỉ mỉ dạy bảo, che chở, sau đó . . . nàng lại quải. Vì thế hắn lại thu một đồ đệ tỉ mỉ dạy bảo, che chở, sau đó . . . nàng vẫn quải.",
+      "menu": "comic"
+    },
+    {
+      "id": 167,
+      "name": "Lạn Kha Kỳ Duyên",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/21/4a/a7/214aa7656e87e056ae46dc999d5585b2.jpg",
+      "text": "Lạn Kha bên cạnh ván cờ lá rụng, lão thụ ở giữa đánh cờ không người. Hưng sở trí thiên nguyên một cờ, lại quay đầu sơn hải mênh mông. . . Tỉnh lại sau giấc ngủ, Kế Duyên trở thành một cái cũ nát Sơn Thần Miếu bên trong nửa mù hành khất. Thực lực không đủ miệng pháo đến gom góp, Chân Nhân một thanh kiếm, Thần Côn một cái miệng, chính là Kế Duyên tại cái này đáng sợ thế giới an thân đặt chân căn bản.",
+      "menu": "comic"
+    },
+    {
+      "id": 168,
+      "name": "Trường sinh bắt đầu từ luyện đan",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/37/35/36/373536ff5184b041d8e08c64f182ee43.png",
+      "text": "Truyện tranh Trường sinh bắt đầu từ luyện đan được cập nhật nhanh và đầy đủ nhất tại LightAnikey. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ LightAnikey ra các chương mới nhất của truyện Trường sinh bắt đầu từ luyện đan.",
+      "menu": "comic"
+    },
+    {
+      "id": 169,
+      "name": "Còn Ra Thể Thống Gì Nữa?",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/b4/e5/65/b4e565a82d900f7b21c9f29fb534915e.png",
+      "text": "Còn Ra Thể Thống Gì Nữa? (How Dare You?!) kể về câu chuyện xoay quanh Dữu Vãn Âm. Một ngày nọ, Dữu Vãn Âm bỗng xuyên không vào tiểu thuyết cung đấu. Vì để đảo ngược số phận mà cô đã chọn hợp lực với một tên bạo chúa nhưng lại không thể ngờ rằng hoàng đế và nữ chính trong truyện cũng là xuyên sách mà tới. Cô vẫn luôn hy vọng rằng ba người hiện đại có thể gác lại những tranh chấp trong hoàng cung và ngồi lại cùng nhau để cùng chơi đấu địa chủ và ăn lẩu. Tuy nhiên, nữ chính trong truyện tin rằng mình là người được chọn và lựa chọn chống lại hoàng đế và Vãn Âm... Dữu Vãn Âm vì để có thể sống sót mà phải ra chiêu, cũng vừa là cứu mình mà cũng là giúp Đại Hạ tránh khỏi cuộc kiếp nạn.",
+      "menu": "comic"
+    },
+    {
+      "id": 170,
+      "name": "Nhân Vật Webtoon Na Kang Lim",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/54/87/a6/5487a67798234a37d91405b931745a3f.png",
+      "text": "Na Kang-Lim, một học sinh trung học yêu thích thích webtoon. Một ngày nọ, trải qua một điều gì đó kỳ lạ, một nữ nhân vật chính trong truyện tranh webtoon mà cậu ta thường đọc xuất hiện trước mặt. Những sự cố trong webtoon khiến cô rơi vào khủng hoảng, vấn đề là không có nhân vật chính nào có thể cứu cô khỏi những sự kiện đó! Sau đó cậu ta trở thành nhân vật chính và vượt thời gian để cứu cô.",
+      "menu": "comic"
+    },
+    {
+      "id": 171,
+      "name": "Bắt đầu bằng một văn tiền",
+      "rating": 5,
+      "img": "https://i.pinimg.com/originals/12/06/4a/12064a13427f51ccd0f753b1ed0d432e.png",
+      "text": "Nhân vật chính của chúng ta là tỷ phú trẻ đang phấn đấu trở thành người giàu nhất thế giới. Do đứng dậy quá đột ngột nên đột quỵ. Cứ tưởng cuộc đời thế là hết rồi nhưng mà do sự nhầm lẫn của Bạch Vô Thường. Thương nhân trẻ tuổi Liễu Vân trùng sinh về thời cổ đại, dùng một văn tiền để lập nghiệp, trải rộng việc làm ăn khắp tam giới. Trở thành ông thần tài của thế hệ mới.",
+      "menu": "comic"
+    },
+    {
+      "id": 172,
+      "name": "Xuân thu bá đồ",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/ed/4b/45/ed4b458520cd9389a9e9074d71aaf092.jpg",
+      "text": "Truyện Xuân Thu Bá Đồ Ta, Cơ Thanh, mang theo bất tử cốt, xuyên không tới thế giới võ học cao cấp Xuân Thu Chiến Quốc. Ngươi có kiếm khí như rừng, ta có thể bất tử bất diệt, ngươi có ma công cái thế, ta cũng có bất tử bất diệt, ngươi có thần kỹ, ta cũng có bất tử bất diệt! Hãy xem 1 cái đánh không chết người thường, làm sao ở thế giới võ học phồn thịnh, đẳng cấp sâm nghiêm quật khởi, xưng bá thiên hạ.",
+      "menu": "comic"
     }
   ]
 }
