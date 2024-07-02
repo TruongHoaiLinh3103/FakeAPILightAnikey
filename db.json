@@ -708,7 +708,7 @@
       "name": "Bcryptjs",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Bcryptjs",
+      "text": "Bcrypt là một thuật toán mã hóa mật khẩu được thiết kế bởi Niels Provos and David Mazières. Bcrypt được đánh giá là bảo mật và an toàn hơn so với MD5 và SHA bởi mỗi lần thực hiện băm nó lại cho một giá trị khác nhau, việc này khiến cho việc dò tìm mật khẩu trở nên khó hơn.",
       "menu": "document"
     },
     {
@@ -1090,7 +1090,7 @@
     },
     {
       "id": 134,
-      "name": "@fortawesome/fontawesome-svg-core",
+      "name": "Icons",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
       "text": "",
@@ -1098,27 +1098,27 @@
     },
     {
       "id": 135,
-      "name": "@fortawesome/free-regular-svg-icons",
+      "name": "Chuyện Quái Dị Trấn Âm Dương",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
-      "menu": "document"
+      "img": "https://i.pinimg.com/originals/2f/46/cd/2f46cda9f79b8f730ffb3aad6c116615.jpg",
+      "text": "Diêm Dương Nhất và Bảo Hồ Lô lạc vào trấn Âm Dương kỳ lạ, nơi họ chỉ có thể vào chứ không thể ra. Bất cứ ai tự ý rời đi đều sẽ chết một cách bí ẩn. Mặc dù Diêm Dương Nhất không tin vào những truyền thuyết kinh dị trên trấn Âm Dương, nhưng rất nhiều chuyện tà ma kì quái xảy ra với họ. Diêm Vương khiến họ canh ba phải chết, vậy liệu họ có thể nào sống được đến canh năm không? Điều khiến Diêm Dương Nhất và Bảo Hồ Lô không thể ngờ được là đằng sau thị trấn ma quái bị dính lời nguyền còn có một bí mật đáng kinh ngạc...",
+      "menu": "comic"
     },
     {
       "id": 136,
-      "name": "@fortawesome/free-solid-svg-icons",
+      "name": "Họa bì",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
-      "menu": "document"
+      "img": "https://i.pinimg.com/originals/df/a6/59/dfa659e55e6bbbe36e3581df8a2985e1.jpg",
+      "text": "Kể về mối quan hệ đầy ám ảnh và bạo tàn giữa yêu nữ Tiều Dung, học giả Vương Hoài Khanh và vợ A Nhược. Mở ra câu chuyện về tình yêu, sự sống cái chết giữa yêu quái và con người.",
+      "menu": "comic"
     },
     {
       "id": 137,
-      "name": "@fortawesome/react-fontawesome",
+      "name": "Lãng tiên kỳ đàm",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
-      "menu": "document"
+      "img": "https://i.pinimg.com/originals/ed/7d/8b/ed7d8b5329942a3523f03658e5635861.jpg",
+      "text": "Nhân vật chính xuyên qua thành một con hổ, sống cuộc sống yên bình êm ả của một sơn quân, chủ nhân của ngọn núi Baek. Bỗng một ngày xuất hiểu tiểu cô nương nhận sơn quân là tướng công, những chuyện rắc rối và ký lạ cũng từ đó bắt đầu....",
+      "menu": "comic"
     },
     {
       "id": 138,
