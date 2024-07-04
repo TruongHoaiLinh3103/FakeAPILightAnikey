@@ -729,17 +729,17 @@
     },
     {
       "id": 89,
-      "name": "Cors",
+      "name": "Feathericons",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Cors",
+      "img": "https://i.pinimg.com/originals/bc/fc/77/bcfc77f460779c80281d7d036cdca368.png",
+      "text": "https://feathericons.com/",
       "menu": "document"
     },
     {
       "id": 90,
       "name": "Dotenv",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/2a/e4/f7/2ae4f7dc1ede7f009922be80d043120c.jpg",
       "text": "https://truonghoailinh3103.github.io/Dotenv",
       "menu": "document"
     },
@@ -747,16 +747,16 @@
       "id": 91,
       "name": "Cloudinary",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/ad/d2/08/add20887d1a171e50baa7ae412341717.png",
       "text": "https://truonghoailinh3103.github.io/Cloudinary",
       "menu": "document"
     },
     {
       "id": 92,
-      "name": "Jsonwebtoken",
+      "name": "Icons8",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Jsonwebtoken",
+      "img": "https://i.pinimg.com/originals/f0/b4/34/f0b4348165f21a04d855ded4f79b7131.png",
+      "text": "https://icons8.com/",
       "menu": "document"
     },
     {
@@ -916,7 +916,7 @@
       "id": 112,
       "name": "Aos",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/0b/7f/7e/0b7f7e49f7466fc68570cf45d31d5853.png",
       "text": "https://truonghoailinh3103.github.io/AOS",
       "menu": "document"
     },
@@ -924,7 +924,7 @@
       "id": 113,
       "name": "Axios",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/0a/43/5c/0a435c362aa878bc4d0f54b8e644d1c2.png",
       "text": "https://truonghoailinh3103.github.io/AXIOS",
       "menu": "document"
     },
@@ -1004,8 +1004,8 @@
       "id": 123,
       "name": "React-icons",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
+      "img": "https://i.pinimg.com/originals/ce/21/f4/ce21f4527e3a2690b91f065c2e5eb3aa.png",
+      "text": "https://react-icons.github.io/react-icons/",
       "menu": "document"
     },
     {
@@ -1082,18 +1082,18 @@
     },
     {
       "id": 133,
-      "name": "Web-vitals",
+      "name": "Free formatter",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
+      "img": "https://i.pinimg.com/originals/37/11/d5/3711d583297abe5c9ffe236274afee8b.png",
+      "text": "https://www.freeformatter.com/",
       "menu": "document"
     },
     {
       "id": 134,
       "name": "Icons",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
+      "img": "https://i.pinimg.com/originals/d2/5d/b6/d25db6b7e6fdab68c55444f72e185052.png",
+      "text": "https://fontawesome.com/",
       "menu": "document"
     },
     {
@@ -1399,6 +1399,30 @@
       "img": "https://i.pinimg.com/originals/ed/4b/45/ed4b458520cd9389a9e9074d71aaf092.jpg",
       "text": "Truyện Xuân Thu Bá Đồ Ta, Cơ Thanh, mang theo bất tử cốt, xuyên không tới thế giới võ học cao cấp Xuân Thu Chiến Quốc. Ngươi có kiếm khí như rừng, ta có thể bất tử bất diệt, ngươi có ma công cái thế, ta cũng có bất tử bất diệt, ngươi có thần kỹ, ta cũng có bất tử bất diệt! Hãy xem 1 cái đánh không chết người thường, làm sao ở thế giới võ học phồn thịnh, đẳng cấp sâm nghiêm quật khởi, xưng bá thiên hạ.",
       "menu": "comic"
+    },
+    {
+      "id": 173,
+      "name": "Htmlreference",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/a8/87/ab/a887ab1095f75b20ae558ee1fd211cda.png",
+      "text": "https://htmlreference.io/",
+      "menu": "document"
+    },
+    {
+      "id": 174,
+      "name": "Codepen",
+      "rating": 5,
+      "img": "https://i.pinimg.com/originals/db/7b/34/db7b34f13ff72af46c5fb6919dc51c73.png",
+      "text": "https://codepen.io/",
+      "menu": "document"
+    },
+    {
+      "id": 175,
+      "name": "Developer",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/d4/45/5e/d4455e340f174409257869953987f940.png",
+      "text": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split",
+      "menu": "document"
     }
   ]
 }
