@@ -705,26 +705,26 @@
     },
     {
       "id": 86,
-      "name": "Bcryptjs",
+      "name": "Kensho",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "Bcrypt là một thuật toán mã hóa mật khẩu được thiết kế bởi Niels Provos and David Mazières. Bcrypt được đánh giá là bảo mật và an toàn hơn so với MD5 và SHA bởi mỗi lần thực hiện băm nó lại cho một giá trị khác nhau, việc này khiến cho việc dò tìm mật khẩu trở nên khó hơn.",
+      "img": "https://truonghoailinh.vercel.app/_next/static/media/kensho.81d398f0.png",
+      "text": "https://kensho-31032003.web.app",
       "menu": "document"
     },
     {
       "id": 87,
-      "name": "Body-parser",
+      "name": "ETC",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Body-parser",
+      "img": "https://truonghoailinh.vercel.app/_next/static/media/etc.3fd500c4.png",
+      "text": "https://etc-31032003.web.app",
       "menu": "document"
     },
     {
       "id": 88,
-      "name": "Multer",
+      "name": "CV",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Multer",
+      "img": "https://truonghoailinh.vercel.app/_next/static/media/aboutme.94862268.png",
+      "text": "https://truonghoailinh3103.github.io/AboutMe/",
       "menu": "document"
     },
     {
@@ -859,7 +859,7 @@
       "id": 105,
       "name": "Git/github",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/25/13/2f/25132f83ed403f644febf63d83bab902.jpg",
       "text": "https://truonghoailinh3103.github.io/Git",
       "menu": "document"
     },
@@ -900,7 +900,7 @@
       "id": 110,
       "name": "Sass",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/70/99/8b/70998b024d46e3ceb2a05247e30b3211.jpg",
       "text": "https://truonghoailinh3103.github.io/SCSS",
       "menu": "document"
     },
@@ -908,7 +908,7 @@
       "id": 111,
       "name": "React",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/01/0f/9d/010f9d6fb53abc4fa5e866c11f07d145.jpg",
       "text": "https://truonghoailinh3103.github.io/REACTJS",
       "menu": "document"
     },
@@ -932,7 +932,7 @@
       "id": 114,
       "name": "Html",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/40/3c/da/403cda66530a9f711d4cde4554d89653.jpg",
       "text": "https://truonghoailinh3103.github.io/HTML",
       "menu": "document"
     },
@@ -940,7 +940,7 @@
       "id": 115,
       "name": "Next",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/b6/c5/d8/b6c5d8f992be48af033be7526e4ebfe5.jpg",
       "text": "",
       "menu": "document"
     },
@@ -1028,7 +1028,7 @@
       "id": 126,
       "name": "Copy-to-clipboard",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/f1/7c/a0/f17ca0131ab2f084c309a55cccb330a7.jpg",
       "text": "",
       "menu": "document"
     },
@@ -1036,7 +1036,7 @@
       "id": 127,
       "name": "React-toastify",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/bf/52/6a/bf526afeae9107526f6e04bf6dcfade5.png",
       "text": "https://truonghoailinh3103.github.io/TOAST",
       "menu": "document"
     },
@@ -1044,7 +1044,7 @@
       "id": 128,
       "name": "Css",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/57/fa/57/57fa57a1695a2b54c6ed906119faa61e.jpg",
       "text": "https://css-steel-eight.vercel.app",
       "menu": "document"
     },
@@ -1052,7 +1052,7 @@
       "id": 129,
       "name": "Javascript",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/15/7b/3d/157b3db1a069a4b5d36decfd802aaa22.jpg",
       "text": "https://truonghoailinh3103.github.io/JS",
       "menu": "document"
     },
@@ -1060,7 +1060,7 @@
       "id": 130,
       "name": "Node-sass",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/70/99/8b/70998b024d46e3ceb2a05247e30b3211.jpg",
       "text": "",
       "menu": "document"
     },
