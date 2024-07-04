@@ -761,18 +761,18 @@
     },
     {
       "id": 93,
-      "name": "Morgan",
+      "name": "Codingfont",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Morgan",
+      "img": "https://i.pinimg.com/originals/ed/78/79/ed7879175941300e4ee9215498efd606.png",
+      "text": "https://www.codingfont.com/",
       "menu": "document"
     },
     {
       "id": 94,
-      "name": "Sequelize-cli",
+      "name": "Fonts",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Sequelize-cli",
+      "img": "https://i.pinimg.com/originals/68/54/b0/6854b0d5837b731eee6e58acc18fd1b3.jpg",
+      "text": "https://fonts.google.com/",
       "menu": "document"
     },
     {
@@ -785,49 +785,49 @@
     },
     {
       "id": 96,
-      "name": "Mysql2",
+      "name": "Fontpair",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/MySQL",
+      "img": "https://i.pinimg.com/originals/fe/5a/98/fe5a98a0d8235faac82a2ab463d28c0c.png",
+      "text": "https://www.fontpair.co/",
       "menu": "document"
     },
     {
       "id": 97,
-      "name": "Nodemon",
+      "name": "Cloudconvert",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Nodemon",
+      "img": "https://i.pinimg.com/originals/d1/50/72/d1507217b01d1d2cd352dfd65170da78.png",
+      "text": "https://cloudconvert.com/",
       "menu": "document"
     },
     {
       "id": 98,
-      "name": "Sequelize",
+      "name": ".Gitignore",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Sequelize",
+      "img": "https://i.pinimg.com/originals/40/4e/b2/404eb237531c238f117e27662a702efa.jpg",
+      "text": "https://www.toptal.com/developers/gitignore",
       "menu": "document"
     },
     {
       "id": 99,
-      "name": "Express-handlebars",
+      "name": "Anime",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Express-handlebars",
+      "img": "https://i.pinimg.com/originals/d0/e5/d4/d0e5d43ebd7e17a09d339d501a00e529.png",
+      "text": "https://animejs.com/",
       "menu": "document"
     },
     {
       "id": 100,
-      "name": "Express",
+      "name": "Gsap",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "https://truonghoailinh3103.github.io/Express-js",
+      "img": "https://i.pinimg.com/originals/1a/94/6b/1a946b9380ba26691d534b1382f965d7.png",
+      "text": "https://gsap.com",
       "menu": "document"
     },
     {
       "id": 101,
       "name": "Casual",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/0f/00/75/0f0075121a6fdf42b751a46d754984dd.png",
       "text": "https://truonghoailinh3103.github.io/Casual",
       "menu": "document"
     },
@@ -835,7 +835,7 @@
       "id": 102,
       "name": "Json-server",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/52/24/16/522416a9b288594e7de7137e4d2a7877.jpg",
       "text": "https://truonghoailinh3103.github.io/Json-server",
       "menu": "document"
     },
@@ -843,7 +843,7 @@
       "id": 103,
       "name": "@Faker-js/faker",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/75/d6/ac/75d6ac575ed7cc704d7564d9b67ac3c7.jpg",
       "text": "https://truonghoailinh3103.github.io/Faker",
       "menu": "document"
     },
@@ -851,7 +851,7 @@
       "id": 104,
       "name": "Lowdb",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
+      "img": "https://i.pinimg.com/originals/d4/e3/74/d4e374dac46ce1f1ee89df0b9e1b17d0.png",
       "text": "https://truonghoailinh3103.github.io/LowDB",
       "menu": "document"
     },
@@ -865,18 +865,18 @@
     },
     {
       "id": 106,
-      "name": "Laragon",
+      "name": "Animate",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
+      "img": "https://i.pinimg.com/originals/85/35/88/8535886d76263f651b33b8a5db52130d.png",
+      "text": "https://animate.style/",
       "menu": "document"
     },
     {
       "id": 107,
-      "name": "Insomnia",
+      "name": "Animista",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
+      "img": "https://i.pinimg.com/originals/de/8b/64/de8b6460ab9e4899b196e6960b5163c7.jpg",
+      "text": "https://animista.net/",
       "menu": "document"
     }
     ,
@@ -884,16 +884,16 @@
       "id": 108,
       "name": "Toolbug clone website",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
+      "img": "https://i.pinimg.com/originals/02/ee/88/02ee887f2ab01c331c074ed34cfecd33.jpg",
+      "text": "https://www.toolsbug.com/website-copier-online.php",
       "menu": "document"
     },
     {
       "id": 109,
       "name": "Vercel",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/36/77/9d/36779dbe101f130c9ef3225406cf93d1.png",
-      "text": "",
+      "img": "https://i.pinimg.com/originals/6c/fe/97/6cfe97f348c02a4807fe77db73cdcddf.jpg",
+      "text": "https://vercel.com/",
       "menu": "document"
     },
     {
