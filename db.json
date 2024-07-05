@@ -898,7 +898,7 @@
     },
     {
       "id": 110,
-      "name": "Sass",
+      "name": "Sass / Node-sass",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
       "text": "https://truonghoailinh3103.github.io/SCSS",
@@ -906,7 +906,7 @@
     },
     {
       "id": 111,
-      "name": "React",
+      "name": "React / React-dom / React-scripts",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
       "text": "https://truonghoailinh3103.github.io/REACTJS",
@@ -1010,7 +1010,7 @@
     },
     {
       "id": 124,
-      "name": "Redux",
+      "name": "Redux / React-redux",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
       "text": "https://truonghoailinh3103.github.io/REDUX",
@@ -1058,26 +1058,26 @@
     },
     {
       "id": 130,
-      "name": "Node-sass",
+      "name": "Learnenglish",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://learnenglish.britishcouncil.org/",
       "menu": "document"
     },
     {
       "id": 131,
-      "name": "React-dom",
+      "name": "Snapedit",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://snapedit.app/",
       "menu": "document"
     },
     {
       "id": 132,
-      "name": "React-scripts",
+      "name": "Englishteststore",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://englishteststore.net",
       "menu": "document"
     },
     {
@@ -1130,10 +1130,10 @@
     },
     {
       "id": 139,
-      "name": "React-redux",
+      "name": "Check SEO",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://pagespeed.web.dev/",
       "menu": "document"
     },
     {
@@ -1146,18 +1146,18 @@
     },
     {
       "id": 141,
-      "name": "Visbug",
+      "name": "Canva",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://www.canva.com/",
       "menu": "document"
     },
     {
       "id": 142,
-      "name": "Responsive web design tester",
+      "name": "Spline",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://app.spline.design",
       "menu": "document"
     },
     {
@@ -1623,10 +1623,10 @@
     },
     {
       "id": 200,
-      "name": "FakeAPILightAnikey",
+      "name": "API Thư Viện",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "zfakeapi.vercel.app",
+      "text": "https://zfakeapi.vercel.app/",
       "menu": "document"
     },
     {
@@ -1643,7 +1643,7 @@
       "name": "Portfolio",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "truonghoailinh.vercel.app/",
+      "text": "https://truonghoailinh.vercel.app/",
       "menu": "document"
     },
     {
