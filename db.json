@@ -941,7 +941,7 @@
       "name": "Next",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://nextjs.org",
       "menu": "document"
     },
     {
@@ -949,7 +949,7 @@
       "name": "Dompurify",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://truonghoailinh3103.github.io/Dompurify",
       "menu": "document"
     },
     {
@@ -965,7 +965,7 @@
       "name": "Yup",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://truonghoailinh3103.github.io/Yup",
       "menu": "document"
     },
     {
@@ -1141,7 +1141,7 @@
       "name": "Redux-persist",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://truonghoailinh3103.github.io/Redux-persist",
       "menu": "document"
     },
     {
