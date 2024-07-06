@@ -954,11 +954,11 @@
     },
     {
       "id": 117,
-      "name": "Next-video",
+      "name": "Quỷ Bí Chi Chủ",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
-      "menu": "document"
+      "img": "https://i.pinimg.com/originals/6a/c0/fd/6ac0fd7e9d5c13220cf96171690e9268.jpg",
+      "text": "Hơi nước cùng máy móc thủy triều bên trong, ai có thể chạm đến phi phàm? Lịch sử cùng hắc ám trong sương mù, là ai tại thì thầm? Ta theo quỷ bí bên trong tỉnh lại, mở mắt trông thấy cái thế giới này: Súng ống, đại pháo, cự hạm, khinh khí cầu, máy vi sai; ma dược, bói toán, nguyền rủa, người treo ngược, phong ấn vật. . . Quang minh vẫn như cũ chiếu rọi, huyền bí chưa bao giờ rời xa, đây là một đoạn 'Ngu giả' truyền thuyết...",
+      "menu": "comic"
     },
     {
       "id": 118,
@@ -973,7 +973,7 @@
       "name": "Styled-components",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://styled-components.com/",
       "menu": "document"
     },
     {
@@ -981,7 +981,7 @@
       "name": "React-slick",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://react-slick.neostack.com/",
       "menu": "document"
     },
     {
@@ -989,7 +989,7 @@
       "name": "Slugify",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://truonghoailinh3103.github.io/Slugify/",
       "menu": "document"
     },
     {
@@ -1021,7 +1021,7 @@
       "name": "React-router-dom",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://reactrouter.com/",
       "menu": "document"
     },
     {
@@ -1029,7 +1029,7 @@
       "name": "Copy-to-clipboard",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://truonghoailinh3103.github.io/Copy-to-clipboard/",
       "menu": "document"
     },
     {
@@ -1125,7 +1125,7 @@
       "name": "Slick-carousel",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "",
+      "text": "https://truonghoailinh3103.github.io/Slick-carousel/",
       "menu": "document"
     },
     {
@@ -1708,6 +1708,30 @@
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
       "text": "https://truonghoailinh3103.github.io/Emoij/",
+      "menu": "document"
+    },
+    {
+      "id": 211,
+      "name": "Cdnjs",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://cdnjs.com/",
+      "menu": "document"
+    },
+    {
+      "id": 212,
+      "name": "Codebeautify",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://codebeautify.org/",
+      "menu": "document"
+    },
+    {
+      "id": 213,
+      "name": "Can I Use?",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://caniuse.com/",
       "menu": "document"
     }
   ]
