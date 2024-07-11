@@ -1733,6 +1733,22 @@
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
       "text": "https://caniuse.com/",
       "menu": "document"
+    },
+    {
+      "id": 214,
+      "name": "Đại vương tha mạng",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/98/1b/6d/981b6d16d5a71499715a38cd322d23cf.jpg",
+      "text": "Đại Vương Tha Mạng là câu chuyện về Lã Thụ, một thiếu niên 17 tuổi mồ côi cha mẹ từ nhỏ, hiện đang sống cùng cô bé Lã Tiểu Ngư. Hai người thân thiết như anh em một nhà nhưng lại không có cùng dòng máu. Lã Thụ là kẻ từ sớm phải lo chuyện cơm áo gạo tiền nên hiểu biết rất nhiều, tuy là người lương thiện nhưng nói ra câu nào là làm tức chết người câu đó, dân gian thường gọi là mồm khẩu nghiệp! Lã Tiểu Ngư tinh ranh nhưng đáng yêu, hạnh phúc của cô bé là được ăn thật nhiều món ngon, chính là cái loại người có thể ăn cả thế giới. Thế giới hiện đại Lã Thụ sống dần xuất hiện những chuyện kỳ lạ, mọi người bắt đầu truyền tai nhau về cái gọi là 'dị năng'. Trong một lần đi mua đồ ăn cho Tiểu Ngư, Lã Thụ bị xe tải tông suýt chết, thế là Hệ thống của hắn được kích hoạt.",
+      "menu": "comic"
+    },
+    {
+      "id": 215,
+      "name": "MUI",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://mui.com/",
+      "menu": "document"
     }
   ]
 }
