@@ -2349,6 +2349,14 @@
       "img": "https://i.pinimg.com/originals/ee/20/0f/ee200f9c2c257259d221a352e8e40b2d.jpg",
       "text": "Không có mô tả cụ thể!",
       "menu": "comic"
+    },
+    {
+      "id": 291,
+      "name": "React Lazy Load Image Component",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://truonghoailinh3103.github.io/React-Lazy-Load-Image-Component/",
+      "menu": "document"
     }
   ]
 }
