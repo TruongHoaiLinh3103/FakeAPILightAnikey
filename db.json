@@ -1,13 +1,13 @@
 {
   "Name": {
-    "auth": "Lisoh Anikey"
+    "auth": "Library"
   },
   "banner": [
     {
       "id": 1,
       "imgOne": "https://i.pinimg.com/originals/31/14/9d/31149d32e1e7018659fcc401637f6c89.jpg",
       "imgTwo": "https://i.pinimg.com/originals/9f/3f/86/9f3f865569d1282e08e751f2eb2c92df.jpg",
-      "imgThree": "https://i.pinimg.com/originals/02/d8/af/02d8af72ca517a54c4cfe3b57bb77ac7.png",
+      "imgThree": "https://i.pinimg.com/originals/99/2e/c1/992ec1871955b976d93a6437bbfdcd54.jpg",
       "imgFour": "https://i.pinimg.com/originals/cc/44/d3/cc44d3cb25e7003f002499c47604968c.jpg",
       "imgFive": "https://i.pinimg.com/originals/c7/34/53/c73453490668fe0553ce0143ebd23a7b.jpg",
       "imgSix": "https://i.pinimg.com/originals/7c/bf/1c/7cbf1cc01c1396a5976d2b8965eb14f3.jpg"
@@ -2578,6 +2578,15 @@
       "text": "Một ngày, Tống Thư Hàng ngoài ý muốn gia nhập một nhóm chat nghiện tiên hiệp thâm niên, các thành viên trong nhóm đều lấy ‘Đạo hữu’ xưng hô, danh hiệu đều là Phủ chủ, Động chủ, Chân nhân, Thiên Sư. Ngay cả con chó cảnh lạc đường của chủ nhóm đều xưng là đại yêu khuyển rời nhà trốn đi. Cả ngày nói chuyện là luyện đan, xông bí cảnh, luyện công kinh nghiệm cái gì. Đột nhiên có một ngày, lặn xuống nước hồi lâu hắn đột nhiên phát hiện… Trong đám mỗi một cái quần viên, vậy mà toàn bộ là tu chân giả, có thể di sơn đảo hải, trường sinh ngàn năm cái chủng loại kia! A a a a, nhận thức về thế giới của hắn tại trong vòng một đêm hoàn toàn tan vỡ!",
       "menu": "comic",
       "list": "Phiêu-lưu"
+    },
+    {
+      "id": 295,
+      "name": "Ba Kiếp Xui Xẻo, Kiếp Này Cùng Ta Thần Kinh",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/ca/3b/7e/ca3b7e20c493c348edd2b264906f0ed8.jpg",
+      "text": "Ta là Lạc Nhân Ấu, là một bạn nhỏ dễ thương từ trên trời rơi xuống Ta đã trải qua hai kiếp vừa ngắn ngủi lại vừa ngớ ngẩn, Hệ thống thương hại ta, cho ta trọng sinh, nhưng ta lại rơi vào tay của một kẻ đeo mặt nạ quái gở...",
+      "menu": "comic",
+      "list": "Mưu-sự Truyện-cười Ngôn-tình"
     }
   ]
 }
