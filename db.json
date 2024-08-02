@@ -2710,6 +2710,42 @@
       "text": "https://truonghoailinh3103.github.io/React-easy-sort",
       "menu": "document",
       "list": "Ingredients"
+    },
+    {
+      "id": 299,
+      "name": "Enka Network(Check Genshin Impact)",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://enka.network",
+      "menu": "document",
+      "list": "Check"
+    },
+    {
+      "id": 300,
+      "name": "Hoá Ra Ta Sớm Đã Vô Địch",
+      "rating": 3,
+      "img": "https://i.pinimg.com/originals/3f/06/0b/3f060b7fa439ad2a88acaf047ccd7ab7.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 301,
+      "name": "Thánh làm việc riêng trong giờ học",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/fc/12/35/fc1235fddda4a4ce79bc5663c53dbf9b.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 302,
+      "name": "GG Dịch",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://translate.google.com/",
+      "menu": "document",
+      "list": "Tool"
     }
   ]
 }
