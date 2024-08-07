@@ -2840,11 +2840,56 @@
     {
       "id": 313,
       "name": "Vương Gia Người Ta Sẽ Giảm Béo Mà!!!",
-      "rating": 3,
+      "rating": 2,
       "img": "https://i.pinimg.com/originals/56/79/f6/5679f6e2a582e390ad3a4106922e5c65.jpg",
       "text": "Vừa tỉnh lại, thân là truyền nhân của trung y thế gia- Hàn Phỉ phát hiện mình xoay người cúi đầu không thấy được mũi chân đâu! sau mới biết nàng biến thành bà mập nổi danh gần xa của Hàn Phủ thừa tướng, đại tiểu thư con vợ cả!.....",
       "menu": "comic",
       "list": "Ngôn-tình"
+    },
+    {
+      "id": 314,
+      "name": "Sổ Tay Nuôi Dưỡng Bạo Quân Của Nữ Phụ",
+      "rating": 2,
+      "img": "https://i.pinimg.com/originals/a9/0c/fa/a90cfab2e7f8984a1e976cf7a0e3c49b.jpg",
+      "text": "Nữ cường nhân thời hiện đại Phó Hinh cùng với hệ thống công đức xuyên qua thành cô thôn nữ thời cổ đại Phó Thất Bảo. Không chỉ phải kế thừa toàn bộ tội ác của nguyên chủ mà còn phải rước một chàng trai câm về làm con rể nuôi từ bé. Ai nghĩ rằng người thanh niên tuyệt đẹp bị chủ nhân đánh cho toàn thân không có chỗ lành lặn này trong tương lai lại là tên bạo chúa máu lạnh, độc ác sẽ thống trị thế giới, và tất cả những ai đã làm tổn thương hắn đều sẽ trở thành vật hy sinh, bị đốt thành tro bụi...Vị nữ phụ nào đó: 'Chờ đã, làm thế nào mà tên bạo chúa này lại có một mặt hư hỏng như vậy cơ chứ? Đa nhân cách hay gì?' Ở nơi khác, Vị bạo quân kiêm con rể nuôi từ bé nào đó,chỉ để tranh đoạt sự chú ý của Phó Thất Bảo lại mặt dày bước lên con đường trà xanh nam không lối thoát.",
+      "menu": "comic",
+      "list": "Ngôn-tình"
+    },
+    {
+      "id": 315,
+      "name": "Tất cả phản diện đều hắc hoá chỉ mỗi sư muội là hài hước",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/66/f9/90/66f99028403ab8aa4b24b36d85aca264.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 316,
+      "name": "Lăng mộ mạc kim",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/c0/5b/03/c05b031154b106dc6853a38894bfab6e.jpg",
+      "text": "Mặc dù Tào Thuận là hậu duệ dòng dõi của sĩ quan Mạc Kim, nhưng cha Tào Thuận chưa bao giờ dạy Tào Thuận bất kỳ kỹ năng nào của sĩ quan. Tào Thuận không học hành gì, cậu ta dựa vào miệng lưỡi ngon ngọt để lừa người kiếm sống. Một ngày nọ, một kẻ độc ác vào làng, đích thân chỉ danh yêu cầu dòng dõi của Mạc Kim là Tào Thuận giúp hắn tìm báu vật, nếu từ chối sẽ giết cả làng. Tào Thuận bất đắc dĩ cải trang thành sĩ quan cùng bọn chúng tiến vào lăng mộ...",
+      "menu": "comic",
+      "list": "Kinh-dị Phim"
+    },
+    {
+      "id": 317,
+      "name": "Trăm Kiếp Luân Hồi, Kiếp Này Ta Chỉ Muốn Lười Biếng",
+      "rating": 3,
+      "img": "https://i.pinimg.com/originals/0b/d8/d3/0bd8d3298558b8bcd157757487e457e4.png",
+      "text": "Mạnh Quy Đề vốn tưởng rằng mình sẽ là đệ nhất thiên hạ. Kết quả là thiên hạ đệ nhất pháo hôi. Sau khi tự bạo, nàng bị nhốt trong hỗn độn nhìn mấy trăm lần cả đời nữ chủ. Mới biết hóa ra mình là nhân vật phản diện trong một quyển tiểu thuyết. Tỉnh lại, nhân vật phản diện cô ấy bị rách nát. Đánh lại đánh không lại, cướp lại cướp không lại. Chỉ có thể đi theo cốt truyện để duy trì cuộc sống như vậy. Mạnh Quy Đề: Mệt rồi! Bây giờ tôi chỉ muốn nằm tất cả mọi người muốn làm gì thì làm.",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 318,
+      "name": "Tiểu sư muội rất mạnh nhưng lại quá tấu hề",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/62/c4/dc/62c4dcb5280f397e2bd6998cdac95e79.jpg",
+      "text": "'Thôi vậy, ta lựa chọn mặc kệ đời.' Xuyên sách, Diệp Kiều vì muốn thoát khỏi vận mệnh nữ phụ pháo hôi, nàng suốt đêm xuống núi gia nhập vào tông môn mới, bị thu làm đệ tử thân truyền thì thôi đi, còn tặng kèm thêm bốn sư huynh sủng nàng tới tận trời. Từ đó, Diệp Kiều quyết định đưa các sư huynh rời xa nữ chính vạn người mê, nghịch thiên cải mệnh!",
+      "menu": "comic",
+      "list": "Truyện-cười"
     }
   ]
 }
