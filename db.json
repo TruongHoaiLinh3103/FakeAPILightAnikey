@@ -3397,6 +3397,51 @@
       "text": "Không có mô tả cụ thể!",
       "menu": "comic",
       "list": "Phim"
+    },
+    {
+      "id": 375,
+      "name": "Phu Quân, Làm Ơn Để Ta Yên!",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/44/2e/cc/442eccdced464f77b3f4b39cafa512e5.jpg",
+      "text": "Dục Tú: Là một nữ hiệp giang hồ (tự phong), lý tưởng của tôi là xem khắp thiên hạ mỹ nam, thành thân? Đó chỉ là một kế hoạch tạm thời! Hừ, ta làm sao có thể vì một cái cây mà buông tha cả khu rừng! Lạc Đạc: Thật vất vả mới cưới được nương tử đến tay, vì sao cả ngày muốn đội mũ xanh cho ta? Làm thế nào điều này có được!!!",
+      "menu": "comic",
+      "list": "Ngôn-tình"
+    },
+    {
+      "id": 376,
+      "name": "Manh Phi Thất Thất",
+      "rating": 3,
+      "img": "https://i.pinimg.com/originals/2e/29/42/2e29423fcb4444019a672625b8b50573.jpg",
+      "text": "Hắn là Sát phạt quyết đoán, lãnh khốc vô tình, được xưng là Mặc quốc đệ nhất công tử Tĩnh An Vương, thế nhân đều nói, hắn cực độ chán ghét nữ nhân, không biết, trong mắt hắn tràn đầy đều chỉ có một người. Thiếu nữ khiến hắn sắc mặt tái mét, nghiến răng nghiến lợi, ngay cả đường phản kháng cũng không có.",
+      "menu": "comic",
+      "list": "Ngôn-tình"
+    },
+    {
+      "id": 377,
+      "name": "Kẻ Ăn Hại Triều Minh",
+      "rating": 5,
+      "img": "https://i.pinimg.com/originals/f0/8c/b0/f08cb06303a22861531279b1eb7e028c.png",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 378,
+      "name": "Doanh Chính nghe tiếng lòng của ta một người xuyên không",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/66/a4/2d/66a42d04c65cc0aa15556b623066b12b.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 379,
+      "name": "Xuyên không đến Tây Du, mở tiệm bán sách bí thuật cho Tôn Ngộ Không",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/9f/e0/fe/9fe0feb3cec0e547e398598ed587de59.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phim"
     }
   ]
 }
