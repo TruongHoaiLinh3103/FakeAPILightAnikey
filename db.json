@@ -3442,6 +3442,15 @@
       "text": "Không có mô tả cụ thể!",
       "menu": "comic",
       "list": "Phim"
+    },
+    {
+      "id": 380,
+      "name": "Yuru Camp",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/25/53/91/25539161856e1983c49d3de1e100cc0d.jpg",
+      "text": "Xúc động trước hình ảnh núi Phú Sĩ in trên mặt sau của tờ 1000 yên, Kagamihara Nadeshiko quyết định đạp xe đến đây để tận mắt chiêm ngưỡng ngọn núi nổi tiếng này. Tại đó, cô gặp Shima Rin – cô nàng có sở thích cắm trại tại chân núi và tình bạn của 2 người bắt đầu từ đó.",
+      "menu": "comic",
+      "list": "Phim"
     }
   ]
 }
