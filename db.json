@@ -1858,12 +1858,12 @@
     },
     {
       "id": 204,
-      "name": "Clock",
+      "name": "React Audio Player",
       "rating": 4,
       "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "https://clock-six-gray.vercel.app/",
+      "text": "https://truonghoailinh3103.github.io/React_Audio_Player/",
       "menu": "document",
-      "list": "Personal"
+      "list": "Ingredients"
     },
     {
       "id": 205,
@@ -3451,6 +3451,33 @@
       "text": "Xúc động trước hình ảnh núi Phú Sĩ in trên mặt sau của tờ 1000 yên, Kagamihara Nadeshiko quyết định đạp xe đến đây để tận mắt chiêm ngưỡng ngọn núi nổi tiếng này. Tại đó, cô gặp Shima Rin – cô nàng có sở thích cắm trại tại chân núi và tình bạn của 2 người bắt đầu từ đó.",
       "menu": "comic",
       "list": "Phim"
+    },
+    {
+      "id": 381,
+      "name": "Sport",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://sport-parkour.vercel.app/",
+      "menu": "document",
+      "list": "Personal"
+    },
+    {
+      "id": 382,
+      "name": "Nhất Nhân Chi Hạ",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/99/c3/dd/99c3ddbe388d1cf5b765262ebbf2d8a5.jpg",
+      "text": "Chou Soran là một sinh viên đại học bình thường cho đến khi anh bị cuốn vào một sự cố khủng khiếp ở một ngôi làng nhỏ khi đến thăm mộ ông nội. Trong khi đi bộ qua nghĩa trang để thăm ông nội đã khuất, Soran bị lũ thây ma tấn công cho đến khi một cô gái bí ẩn cầm dao xuất hiện và dẫn anh đến một cuộc đối đầu với lũ thây ma. Sau khi chống trả thành công lũ thây ma và tiếp tục chạm trán với cô gái cầm dao được gọi là Fu Hōhō, cuộc sống của Soran bắt đầu thay đổi khi anh biết rằng kỹ thuật võ thuật mà ông nội dạy cho anh, được gọi là Kitaigen, là một kỹ thuật đang được nhiều nhóm võ thuật tìm kiếm với động cơ thầm kín. Câu chuyện kể về nỗ lực của Soran để tìm ra lịch sử thực sự của ông nội mình và mối liên hệ được cho là của anh với Fu Hōhō.",
+      "menu": "comic",
+      "list": "Phim Phiêu-lưu"
+    },
+    {
+      "id": 383,
+      "name": "Nương Tử Nhà Ta Là Bạo Quân Nữ Đế Trong Tương Lai",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/e5/c0/dd/e5c0dd8edadc43aa1823b22eed7840f1.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Ngôn-tình Truyện-cười"
     }
   ]
 }
