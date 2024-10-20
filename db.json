@@ -3478,6 +3478,33 @@
       "text": "Không có mô tả cụ thể!",
       "menu": "comic",
       "list": "Ngôn-tình Truyện-cười"
+    },
+    {
+      "id": 384,
+      "name": "@reduxjs/toolkit",
+      "rating": 4,
+      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
+      "text": "https://redux-toolkit.js.org/",
+      "menu": "document",
+      "list": "Ingredients"
+    },
+    {
+      "id": 385,
+      "name": "Cương Thi Tiên Sinh",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/90/66/57/906657d8ba0f6602c83559eb0ff93a57.jpg",
+      "text": "Trong xã hội tận thế 1000 năm trước, nam chính là một con zombie hết sức bình thường, ngày ngày bị con người săn giết, để tiếp tục sống, hắn bắt đầu tập thể hình cuối cùng trở nên mạnh mẽ vô cùng. 1000 năm sau con người lần nữa phát hiện ra hắn…",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 386,
+      "name": "Cực Phẩm Cuồng Tể",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/3b/42/4b/3b424bdc602d4dba5f5f36d038897cf7.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phiêu-lưu Truyện-cười"
     }
   ]
 }
