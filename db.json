@@ -3166,12 +3166,12 @@
     },
     {
       "id": 349,
-      "name": "Cháu gái bên nội",
-      "rating": 3,
-      "img": "https://i.pinimg.com/originals/5a/27/f4/5a27f4284dc735e52ac8e0acaedf4328.jpg",
-      "text": "Không có mô tả cụ thể!",
+      "name": "Ngôi Làng Ma Quái",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/8f/67/2b/8f672b498e213d8c07abebb1f92f17da.jpg",
+      "text": "Họ dường như không vui khi có người lạ đến thăm. Kể từ cái ngày đó, dân làng ngày càng biến mất. Myeong đến thăm làng gwichon ri và trốn trong ngôi nhà trống của bà ngoại nhưng thấy nó sạch sẽ đến lạ thường. Bà nội anh đã mất cách đây ba năm, đó là một tai nạn hay có liên quan gì đến ngôi làng?",
       "menu": "comic",
-      "list": "Truyện-18"
+      "list": "Kinh-dị"
     },
     {
       "id": 350,
@@ -3500,11 +3500,47 @@
     {
       "id": 386,
       "name": "Cực Phẩm Cuồng Tể",
-      "rating": 2,
+      "rating": 1,
       "img": "https://i.pinimg.com/736x/3b/42/4b/3b424bdc602d4dba5f5f36d038897cf7.jpg",
       "text": "Không có mô tả cụ thể!",
       "menu": "comic",
       "list": "Phiêu-lưu Truyện-cười"
+    },
+    {
+      "id": 387,
+      "name": "Thu Thi Nhân: Mở Đầu Bằng Việc Giải Phẫu Bạn Gái Cũ",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/2a/49/6c/2a496c1363460296e0d657606b47e181.jpg",
+      "text": "Trong lớp mổ xẻ, xác chết là bạn gái cũ của tôi ... kể từ đó, tôi đã trải nghiệm nhiều điều đáng kinh ngạc. Chỉ ngược dòng, xe buýt đưa đón trực tiếp kết nối với hồ chứa. Những cây châu chấu cũ có lá trong bệnh viện và không nôn xương. Trên bờ sông Qingshui, con cá trê lớn yêu cầu sự giúp đỡ từ mọi người đêm và đêm. Ngoài ra còn có một tòa nhà màu xanh lá cây đe dọa cuộc sống với làn da của con người và không bao giờ nghỉ ngơi. Nó là vô tận, như thể không có kết thúc ...",
+      "menu": "comic",
+      "list": "Kinh-dị"
+    },
+    {
+      "id": 388,
+      "name": "Vương Hậu Đi Học",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/ec/40/3e/ec403e3eef5e4c986c540065971df0ee.jpg",
+      "text": "Kim Cheong-ha, kiếm sĩ đầu tiên của triều đại Joseon và là con gái của một samurai trong triều đại Joseon. Cô tái sinh trong cơ thể của Park Da-jin , một nữ sinh trung học bị cuốn vào một cuộc đấu tranh bí mật của hoàng gia và phải chịu cái chết oan uổng cũng như bị ngược đãi ở trường học. Cheongha, người thích thế giới hiện đại tự do, bắt đầu đứng lên chống lại những kẻ bất lương khi còn là một nữ sinh trung học... Quá trình giáo dục thực sự của Cheongha đối với nopaku, kéo dài hơn 500 năm, bắt đầu ngay bây giờ!",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 389,
+      "name": "Ta Có Một Sơn Trại",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/6e/6f/c8/6e6fc8079c31b343f7518aca45a65f27.jpg",
+      "text": "Bắt đầu một tòa sơn trại, hai người miệng ( Quân sư, mã phu ), muốn chế tạo tối cường sơn trại. Hắn xuyên qua đến loạn thế, nắm giữ một tòa lập tức sẽ giải thể sơn trại. Đối mặt cái này sát lục loạn thế, là dự định đoạt tiền cướp lương cướp bà nương làm một cái Tiêu Dao sơn đại vương, vẫn là giội ra cái này thân nam nhi huyết, giao phong trên đời anh hùng, đọ sức một cái danh chấn cổ kim, hỏi một tiếng: Vương hầu tướng lĩnh, chả lẽ không cùng loại sao!",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 390,
+      "name": "Nội Tâm Ám Vệ Của Bổn Công Chúa Quá Nhiều Súng Đạn Rồi",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/9b/81/51/9b815155e22d120c65697852adb1feaa.jpg",
+      "text": "Công chúa pháo hôi có thể nghe thấy tiếng lòng của ám vệ kỳ quái bên người, từ chỗ ám vệ ngoài ý muốn biết được vận mệnh bi thảm của mình, hạ quyết tâm ôm chặt đùi tráng kiện của tiểu ám vệ nghịch thiên cải mệnh! Ám vệ máu lạnh xuyên qua mà đến, không tiếc bất cứ giá nào chỉ vì hoàn thành nhiệm vụ hệ thống tuyên bố —— vương triều tiêu diệt pháo hôi công chúa xây dựng thế giới mới rồi về nhà —— lại không ngờ lại bị công chúa pháo hôi này một mẻ ôm sát từng bước hướng dẫn!",
+      "menu": "comic",
+      "list": "Phiêu-lưu Ngôn-tình"
     }
   ]
 }
