@@ -189,7 +189,7 @@
       "id": 19,
       "name": "Nữ chính từ trong sách chạy ra ngoài rồi phải làm sao đây",
       "rating": 5,
-      "img": "https://i.pinimg.com/originals/8d/ee/49/8dee49aa510ab288ec4960e9c1060c41.jpg",
+      "img": "https://i.pinimg.com/1200x/00/b9/e9/00b9e9f63331b2312eb4b4c4b835b672.jpg",
       "text": "Sở Qua là một tiểu thuyết gia chuyên viết truyện hậu cung. Khi anh ta chuẩn bị viết người mạnh nhất thiên hạ - nữ tông chủ xuân tâm nhộn nhạo, một cô gái bỗng xuất hiện trong phòng, kề kiếm lên cổ anh ta nói: “Ngươi dám viết ta yêu nam nhân đó xem, ta sẽ giết ngươi!”.",
       "menu": "comic",
       "list": "Ngôn-tình"
@@ -3811,6 +3811,123 @@
       "text": "Một Thanh niên bình thường cùng với thanh kiếm có sức mạnh vô biên, anh bước vào cuộc hành trình của mình. Trên thế giới này đầy khó khăn và nguy hiểm, anh trở thành một kiếm khách mạnh mẽ , Anh trải qua những cuộc hành trình khám phá nơi núi rừng hoang dã và sông suối hùng vĩ, gặp gỡ với nhiều kiểu người khác nhau, từ những người bạn đồng hành đáng tin cậy đến những đối thủ thách thức.",
       "menu": "comic",
       "list": "Phim Phiêu-lưu"
+    },
+    {
+      "id": 421,
+      "name": "Ông Võ Giả Và Cháu Chí Tôn",
+      "rating": 4,
+      "img": "https://i.pinimg.com/1200x/be/35/6c/be356c687065ad6791377c30821cb81e.jpg",
+      "text": "Khi đã chuẩn bị c.h..ế.t đi mà không còn gì hối tiếc, thì tai họa diệt môn lại ập đến. Lưu Chấn Sơn quyết định sẽ sống ít nhất là cho đến khi Lưu Tuyết Nhi, cháu gái của lão trưởng thành. Khi lão đang vật lộn với việc nuôi dạy cháu gái và luyện võ công với cơ thể tàn tạ của mình, trước khi lão kịp nhận ra thì cháu gái của lão, người sở hữu quyền năng võ lâm chí tôn đã lớn nhanh đến không thể ngờ. “Ông nội đừng lo. Từ giờ con sẽ bảo vệ ông!”",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 422,
+      "name": "Giáo Dục Chân Chính",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/b3/22/55/b322557d63896f64571f246650850a98.jpg",
+      "text": "Năm 2011, đạo luật cấm trừng phạt thân thể đã được thông qua tại Hàn Quốc. Đối với giáo dục, giáo viên không được phép ra lệnh hay đụng chạm thân thể học sinh. Lợi dụng điều này, lũ học sinh ranh ma đã và đang có những hàn vi xâm phạm thẩm quyền giáo dục một cách trầm trọng. Trước những mối nguy hại suy đồi về đạo đức và con người đã và đang chuẩn bị xảy ra. Để bảo vệ thẩm quyển giáo dục sắp sụp đổ, Na Hwajin, một thành viên của cục bảo vệ quyền giáo dục đã bắt đầu tiến hành 'giáo dục chân chính', lập lại trật tự trường học.",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 423,
+      "name": "Bố Tôi Quá Mạnh",
+      "rating": 4,
+      "img": "https://i.pinimg.com/1200x/64/37/cc/6437cc2de387f7da53ab9b7e3d77b053.jpg",
+      "text": "Từ một người công chức bình thường, chẳng có tài cán gì, DoJoon trở lại với tư cách là một con Quỷ Thiên Đàng. Bây giờ, ước muốn lớn nhất của anh ta là sống một cuộc sống yên bình, lặng lẽ thay cho những ngày sống trong thế giới Murim đầy xung đột và đẫm máu. Hãy trở thành một người cha cho đến khi tôi tốt nghiệp - DoJoon đột nhiên có một đứa con gái từ trên trời rơi xuống",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 424,
+      "name": "Trùng Sinh",
+      "rating": 5,
+      "img": "https://i.pinimg.com/1200x/0e/d5/09/0ed509cc07381eee855d5f0e70286496.jpg",
+      "text": "Vương Hoán- lính đánh thuê hàng đầu đã chết trong một lần thi hành nhiệm vụ, sau khi tỉnh lại, anh phát hiện mình đã đến một thế giới kỳ lạ...",
+      "menu": "comic",
+      "list": "Phiêu-lưu Dị-giới"
+    },
+    {
+      "id": 425,
+      "name": "Chữa Lành Cuộc Sống Thông Qua Cắm Trại Ở Thế Giới Khác",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/7c/82/99/7c8299b3d5a98418253589c1c5d42912.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 426,
+      "name": "Đế Vương Hồi Quy",
+      "rating": 4,
+      "img": "https://i.pinimg.com/1200x/a6/91/1c/a6911c564719d31109a0a5dea0bffde5.jpg",
+      "text": "[Một tác phẩm được thực hiện bởi Redice Studio - Studio đã làm bộ [Solo Leveling], [Thiết Huyết Cẩu Kiếm Sĩ Báo Thù]Đó là một sự hồi quy trong đó quỷ vương Repenhardt, người làm việc vì quyền và lợi ích của các chủng tộc ngoài hành tinh nô lệ của nhân loại, như yêu tinh, người lùn và Orc, trở thành kẻ thù của cả nhân loại và cuối cùng bị đánh bại, trở về quá khứ trong cơ thể của vua Tesron, người đã giết anh ta.",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 427,
+      "name": "Truyện Kinh Dị Ở Tòa Nhà Số 44",
+      "rating": 5,
+      "img": "https://i.pinimg.com/1200x/57/0b/76/570b769c7f81d2765a923fadfb0b5b50.jpg",
+      "text": "Câu chuyện về tòa nhà số 44 đầy bí ẩn....",
+      "menu": "comic",
+      "list": "Kinh-dị"
+    },
+    {
+      "id": 428,
+      "name": "Toàn bộ phản diện trong truyện đều nghe được tiếng lòng của ta",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/0f/6c/d3/0f6cd37791bdc187592388a1ea7a3181.jpg",
+      "text": "Ta là Chúc Ngọc Chi, và năm phút trước ta đã xuyên vào một cuốn tiểu thuyết.Tin tốt là: Ta xuyên thành tiểu thư của một vương phủ, nếu không có gì bất ngờ xảy ra, cuộc đời này quả thật dễ dàng như trở bàn tay.Tin xấu là: Đã có bất ngờ xảy ra, và ta sẽ chết ngay trong đêm nay.Tin còn tệ hơn nữa: Mẫu thân và các ca ca của ta đều là những nhân vật phản diện lớn trong truyện.Thế nhưng, khi Chúc Ngọc Chi không ngừng buông lời than thở, nàng ngạc nhiên phát hiện ra rằng cả nhà phản diện này đều đang nghịch thiên cải mệnh?!",
+      "menu": "comic",
+      "list": "Truyện-cười"
+    },
+    {
+      "id": 429,
+      "name": "Đối Mặt Với Thử Thách",
+      "rating": 5,
+      "img": "https://i.pinimg.com/1200x/48/96/8c/48968c0e29a9e76b1d56c565c8e56788.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-cười Phiêu-lưu"
+    },
+    {
+      "id": 430,
+      "name": "Võ Lâm Đệ Nhất Đầu Bếp",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/62/6a/89/626a89903ac345c83e94ec0f43d4d24d.jpg",
+      "text": "Thế giới đệ nhất đầu bếp đồ ăn Trung Hoa, Lưu Hiền. Ngoài ý muốn xuyên qua thế giới võ lâm. Ở trong thế giới này không có khái niệm ẩm thực, mỗi người đều lấy đan dược làm thức ăn. Cứ nghĩ Lưu Hiền sẽ ở đây đại triển quyền cước nhưng không chờ hắn thể hiện đã bị một vị mỹ thiếu nữ tham ăn cầm tù!",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 431,
+      "name": "Bảo Mẫu Xác Ướp",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/d0/7b/cf/d07bcf4c4ded678cec960ac9df39629e.jpg",
+      "text": "Câu chuyện bắt đầu khi cậu học sinh trung học Kashiwagi Sora nhận được một món quà bí ẩn từ cha cậu, đó là một xác ướp tí hon. Và Sora có nhiệm vụ phải trông nom xác ướp đó.",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 432,
+      "name": "Xếp Hạng Bắt Nạt",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/93/76/26/937626f18d7e4ba3b756b15ca2eea3cf.jpg",
+      "text": "Neon mask, một streamer điên khùng không thể bắt giữ được cùng với kênh của mình lập một bảng xếp hạng các tên tội phạm chuyên bắt nạt học sinh khác và treo thưởng cho ai hạ được chúng. Hắn tuyên bố rằng: “Bọn bắt nạt chúng mày đã cướp đi niềm vui, gia đình của nhiều người khác, vậy thì tao sẽ đại diện cho họ giẫm đạp lên tất cả mọi thứ của chúng mày”",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 433,
+      "name": "Sakamoto Days",
+      "rating": 4,
+      "img": "https://i.pinimg.com/1200x/24/78/d3/2478d3fce2ad4c06906b9be789bdcb91.jpg",
+      "text": "Taro Sakamoto là sát thủ huyền thoại , được các nhân vật phản diện khiếp sợ và các sát thủ ngưỡng mộ. Nhưng một ngày ... anh đã yêu! Giải nghệ, kết hôn, làm cha và sau đó ... Sakamoto đã trở thành con lợn sề ! Anh chàng mũm mĩm điều hành cửa hàng hàng xóm thực sự là một cựu sát thủ huyền thoại giấu nghề ! Liệu anh ấy có thể bảo vệ gia đình mình khỏi nguy hiểm?",
+      "menu": "comic",
+      "list": "Phim"
     }
   ]
 }
