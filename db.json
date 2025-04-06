@@ -3168,7 +3168,7 @@
       "id": 349,
       "name": "Ngôi Làng Ma Quái",
       "rating": 4,
-      "img": "https://i.pinimg.com/736x/8f/67/2b/8f672b498e213d8c07abebb1f92f17da.jpg",
+      "img": "https://i.pinimg.com/1200x/8f/67/2b/8f672b498e213d8c07abebb1f92f17da.jpg",
       "text": "Họ dường như không vui khi có người lạ đến thăm. Kể từ cái ngày đó, dân làng ngày càng biến mất. Myeong đến thăm làng gwichon ri và trốn trong ngôi nhà trống của bà ngoại nhưng thấy nó sạch sẽ đến lạ thường. Bà nội anh đã mất cách đây ba năm, đó là một tai nạn hay có liên quan gì đến ngôi làng?",
       "menu": "comic",
       "list": "Kinh-dị"
@@ -3928,6 +3928,78 @@
       "text": "Taro Sakamoto là sát thủ huyền thoại , được các nhân vật phản diện khiếp sợ và các sát thủ ngưỡng mộ. Nhưng một ngày ... anh đã yêu! Giải nghệ, kết hôn, làm cha và sau đó ... Sakamoto đã trở thành con lợn sề ! Anh chàng mũm mĩm điều hành cửa hàng hàng xóm thực sự là một cựu sát thủ huyền thoại giấu nghề ! Liệu anh ấy có thể bảo vệ gia đình mình khỏi nguy hiểm?",
       "menu": "comic",
       "list": "Phim"
+    },
+    {
+      "id": 434,
+      "name": "Tuyệt Thế Hồi Quy",
+      "rating": 4,
+      "img": "https://i.pinimg.com/1200x/45/f2/c7/45f2c7a7018f3d49cbcd1e427e591c56.jpg",
+      "text": "Trong một thế giới nơi mà những yếu tố siêu nhiên và hành động hấp dẫn tồn tại song song, có một câu chuyện mang tên 'Tuyệt Thế Hồi Quy'. Truyện đề cập đến cuộc phiêu lưu của Linh Hồn Thiên Tài - một người không chỉ có khả năng kiến thức sâu rộng mà còn được ban tặng khả năng hồi quy thời gian. Linh Hồn Thiên Tài bị kéo vào một cuộc chiến khốc liệt giữa những thế lực siêu nhiên và con người đầy quyền lực. Trên hành trình của mình, anh phải đối mặt với những kẻ thù cường đại, chiến đấu bằng cả trí tuệ và sức mạnh siêu nhiên mà anh sở hữu. Với phần nghệ thuật vẽ màu sắc rực rỡ, truyện mang đến cho độc giả những trải nghiệm hấp dẫn và cuốn hút qua từng trang.",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 435,
+      "name": "Vị Thần Trở Về",
+      "rating": 4,
+      "img": "https://i.pinimg.com/1200x/f1/a8/49/f1a849ef789fe0104a7b4a668e265327.jpg",
+      "text": "Tuyệt phẩm thứ sáu của Thể loại Võ hiệp chắc chắn sẽ không làm bạn thất vọng. Tượng tự với [Truyền thuyết Trở lại Hạng ba], [Chinh phục Thiên giới] và [Truyền thuyết Thất Long Thất Quỷ]. Trong [Vị thần trở lại] Tuyệt Đỉnh Ma Thần Dan Woohyun bị phong ấn vì hắn quá mạnh so với thế gian này. Sau một ngàn năm, hắn được thả ra với cảm giác cuộc đời này thật vô nghĩa khi dạo quanh ngõ hẻm… Ngay trước khi hắn gục ngã, một bàn tay xuất hiện trước mặt hắn. “Gì đây?” Dan Woohyun nói.”Màn thầu đó!” Lời đáp vang lên. Đây là lần đầu tiên có người đối xử tốt với hắn không toan tính, và khiến số phận hắn thay đổi. Đây là truyền thuyết về sự trở lại hàng ngàn năm không gian và thời gian của một vị thần!",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 436,
+      "name": "Chiếm Cái Đỉnh Núi Làm Đại Vương",
+      "rating": 2,
+      "img": "https://i.pinimg.com/1200x/0d/28/cc/0d28cc83a962b0057e4ad6d7f743eacb.jpg",
+      "text": "★Bộ truyện tu tiên hài hước phong cách Phật hệ sẽ khiến bạn cười phá lên giữa đêm khuya★——Đến đây nào! Hãy nhớ kỹ, chỉ có một phiên bản duy nhất! Đại Vương Sơn, nơi mà Chí Tôn đi đầy đường, Thần Thú nhiều như chó... Trời ạ, tôi vừa thấy cái gì thế này? Chí Tôn trồng trọt, Thần Thú trông cửa?! Chắc chắn là tôi mở nhầm cách rồi... Chuyển thể từ tiểu thuyết của Duyệt Văn, một tác phẩm mới đầy tâm huyết từ Nguyên Thạch Số Nghệ!",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 437,
+      "name": "Đại Thừa Kỳ Mới Có Nghịch Tập Hệ Thống",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/19/2a/ea/192aea25d2d87a706ba746191901810e.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 438,
+      "name": "Kiếm Sĩ Thiên Tài Của Học Viện",
+      "rating": 2,
+      "img": "https://i.pinimg.com/1200x/4e/86/1e/4e861e615e86bf699f6fb232ce49a64b.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
+    },
+    {
+      "id": 439,
+      "name": "Ta Làm Lớn Ở Hậu Cung",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/93/9d/b1/939db1264a9569c06f305d94ad578b00.jpg",
+      "text": "Ta tên là Vị Y Y, là mỹ nhân bậc nhất kinh thành, thế mà hoàn thượng lại viện lý do là ta xấu xí không cho ta vào cung làm phi, không vào thì không vào, đã thế ta sẽ vào cung làm họa sư, vẽ nữ nhân xấu xí thành khuynh quốc khuynh thành, tuy thân hình của hoàng thượng cũng không tồi, nhưng về nhà sẽ vẽ thành xấu xí để lưu truyền ngàn năm",
+      "menu": "comic",
+      "list": "Ngôn-tình"
+    },
+    {
+      "id": 440,
+      "name": "Phải Lòng Oan Gia",
+      "rating": 3,
+      "img": "https://i.pinimg.com/1200x/49/c2/9d/49c29d676b673d6ccb11432e2409f4ad.jpg",
+      "text": "Nữ chính Yeon Hee sau những ngày tháng lầm lỡ sa chân vào con đường đa cấp cuối cùng cũng đã đủ tiền để học đại học. Những năm tháng giảng đường đáng lẽ sẽ tươi đẹp nếu cô không gặp phải nam chính Yi Kyung. Mẹ của anh từng là con mồi béo bở của Yeon Hee nên để che giấu quá khứ xấu hổ cô ngày nào cũng kè kè bên anh. Từ đây một loạt tình huống dở khóc dở cười xuất hiện. Liệu hai người có đến được với nhau như motip drama quen thuộc? Một bộ romcom siêu cute art cũng siêu xinh. Nữ chính không hề bánh bèo mà cực thông minh, giỏi giang. Nam chính rich kid nhưng không khoe mẽ, không cục súc như truyện tổng tài đâu. Các nhân vật khác cũng cực kì cute phô mai que luôn.",
+      "menu": "comic",
+      "list": "Ngôn-tình"
+    },
+    {
+      "id": 441,
+      "name": "I Did Naughty Things... With My (Drunk) Sister",
+      "rating": 2,
+      "img": "https://i.pinimg.com/1200x/bf/5c/c0/bf5cc0d4165f55b84db1dea3278f0c09.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
     }
   ]
 }
