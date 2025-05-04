@@ -1745,16 +1745,15 @@
       "text": "https://snaptik.app/vn",
       "menu": "document",
       "list": "Tool"
-    }
-    ,
+    },
     {
       "id": 192,
-      "name": "Y2mate",
+      "name": "Bầu Trời Mùa Hạ Dấu Yêu",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "https://www.y2mate.com/",
-      "menu": "document",
-      "list": "Tool"
+      "img": "https://i.pinimg.com/736x/49/7b/0c/497b0c58e3310cda3b22258be34b5dca.jpg",
+      "text": "Gi Hoo thích trời xanh hơn con người, chỉ dùng camera lưu lại khoảnh khắc bầu trời rực rỡ. Bỗng một ngày nọ, “Ha Neul” đã chuyển đến ngồi bên cạnh cậu.",
+      "menu": "comic",
+      "list": "Ngôn-tình"
     },
     {
       "id": 193,
@@ -3454,12 +3453,12 @@
     },
     {
       "id": 381,
-      "name": "Sport",
+      "name": "Tự Cẩm",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "https://sport-parkour.vercel.app/",
-      "menu": "document",
-      "list": "Personal"
+      "img": "https://i.pinimg.com/736x/71/73/5f/71735f0287cca16eb3cbacf1948d6bbe.jpg",
+      "text": "Bộ phim kể về tứ tiểu thư Khương Tự của phủ Đông Bình bá, người được tái sinh sau khi chết dưới tay người thương Úc Cẩm. Lần này, Khương Tự dũng cảm từ hôn, đấu trí với thẩm thẩm ác độc, mở tiệm hương liệu, giúp đỡ bạn tốt, và điều tra vụ án nhiều thiếu nữ bị giết hại… dần dần thay đổi kết cục bi thảm trước đây. Khi Khương Tự và tướng quân thiếu niên Úc Cẩm gặp lại, tuy mỗi người đều có toan tính riêng nhưng vẫn vương vấn nhau như trước. Cùng nhau, họ nỗ lực cứu ca ca Khương Trạm khỏi chết đuối, ngăn tỷ tỷ Khương Y treo cổ tự tử và cũng thay đổi kết cục phụ thân bị trưởng công chúa giá họa chém đầu. Hai người cùng vượt qua khó khăn nguy hiểm, thái độ của Khương Tự dành cho Úc Cẩm dần thay đổi, đồng ý yêu Úc Cẩm một lần nữa. Hai người nắm tay nhau bảo vệ Đại Chu thái bình, cùng hưởng một kiếp phồn hoa.",
+      "menu": "comic",
+      "list": "Ngôn-tình Mưu-sự Phim"
     },
     {
       "id": 382,
