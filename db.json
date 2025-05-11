@@ -1821,21 +1821,21 @@
     },
     {
       "id": 200,
-      "name": "API Thư Viện",
+      "name": "Quỷ Bí Chi Chủ",
       "rating": 4,
-      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "https://zfakeapi.vercel.app/",
-      "menu": "document",
-      "list": "Personal"
+      "img": "https://i.pinimg.com/736x/6a/c0/fd/6ac0fd7e9d5c13220cf96171690e9268.jpg",
+      "text": "Trong thuỷ triều của hơi nước và máy móc, ai có thể với tới sự phi phàm? Trong màn sương mù của lịch sử và bóng tối, ai đang thì thầm? Ta tỉnh dậy từ trong sự thần bí, mở mắt nhìn thế giới này. Súng ống, pháo, chiến hạm, phi thuyền, đủ mọi loại máy móc; Ma dược, bói toán, nguyền rủa, người treo ngược, vật phong ấn... Ánh sáng vẫn chiếu rọi như trước, nhưng thần bí vẫn chưa từng rời xa. Đây là truyền thuyết về 'Kẻ Khờ'.",
+      "menu": "comic",
+      "list": "Mưu-sự Kinh-dị"
     },
     {
       "id": 201,
-      "name": "Thư viện",
-      "rating": 4,
-      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "https://thuvien-tailieu.vercel.app/",
-      "menu": "document",
-      "list": "Personal"
+      "name": "Thập Nhật Chung Yên",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/1e/fe/b7/1efeb7d2b34e7e040d15b30e5e64cd49.jpg",
+      "text": "Tề Hạ, một thanh niên bình thường, đột nhiên phát hiện mình bị kéo vào “Chung Yên Chi Địa” – một không gian kỳ lạ nơi anh và những người khác bị buộc tham gia các trò chơi sinh tử kéo dài mười ngày. Ban đầu tưởng chỉ cần sống sót qua các thử thách là có thể thoát ra, anh dần nhận ra mọi người xung quanh bắt đầu thức tỉnh siêu năng lực. Khi Kiều Gia Cẩm nghĩ nơi này có thể là “Vùng đất tạo thần”, thực tế lại hé lộ tất cả đang tiến tới bờ vực hủy diệt. Không có hệ thống hỗ trợ, không hậu cung hay vô địch, Tề Hạ phải dựa vào trí tuệ, sự cảnh giác và khả năng hợp tác để đối mặt với kẻ thù, từ những người chơi khác đến các thế lực bí ẩn đứng sau trò chơi. Hành trình của anh là cuộc chiến sinh tồn nghẹt thở, nơi mỗi quyết định đều có thể dẫn đến sống hoặc chết, cuối cùng dẫn dắt anh khám phá sự thật kinh hoàng về Chung Yên Chi Địa.",
+      "menu": "comic",
+      "list": "Mưu-sự Kinh-dị"
     },
     {
       "id": 202,
@@ -2748,12 +2748,12 @@
     },
     {
       "id": 303,
-      "name": "API Cooking App",
-      "rating": 4,
-      "img": "https://i.pinimg.com/originals/45/03/1d/45031d731b1038a6a1726201cb2c0eec.jpg",
-      "text": "https://zfakecooking.vercel.app/",
-      "menu": "document",
-      "list": "Personal"
+      "name": "Ta Không Phải Là Hí Thần",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/86/1a/f2/861af2beeb17b3326a9e216d8e474547.jpg",
+      "text": "Màu đỏ Lưu Tinh xẹt qua chân trời về sau, nhân loại văn minh lâm vào đình trệ. Từ ngày đó trở đi, mọi người cũng không còn cách nào chế tạo một viên hỏa tiễn, một viên đạn hạt nhân, một khung máy bay, một đài ô tô. . . Cận đại khoa học đắp lên mà thành văn minh Kim Tự Tháp ầm vang đổ sụp, mà tai nạn, xa không chỉ đây. Thế giới màu xám theo màu đỏ Lưu Tinh giáng lâm, giống như là mặt kính sau Quỷ Mị cái bóng, đem văn minh thế giới một chút xíu kéo vào vô tự Thâm Uyên.",
+      "menu": "comic",
+      "list": "Kinh-dị Mưu-sự"
     },
     {
       "id": 304,
@@ -4251,6 +4251,15 @@
       "text": "Yêu Đao họa hại võ lâm lần nữa lại xuất hiện, Tứ Đại Kiếm Môn nối nhau bị hại. Một thợ rèn thiếu niên Bùi Liệt ở Lưu Ảnh Thành, nào ngờ bị cuốn vào phân tranh? Bí mật thật sự của Yêu Đao là gì?",
       "menu": "comic",
       "list": "Phiêu-lưu"
+    },
+    {
+      "id": 470,
+      "name": "Motto Okki na Saori-chan wa Fukiyou ni Eroi",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/41/df/dc/41dfdc78704e0998093157cde74d4be3.jpg",
+      "text": "Không Có Mô Tả Cụ Thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
     }
   ]
 }
