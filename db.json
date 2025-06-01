@@ -4260,6 +4260,186 @@
       "text": "Không Có Mô Tả Cụ Thể!",
       "menu": "comic",
       "list": "Truyện-18"
+    },
+    {
+      "id": 471,
+      "name": "Nhà Bà Nữ",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/49/1a/c1/491ac17d2d6a8a2b865db11bb9b5f233.jpg",
+      "text": "Lấy cảm hứng từ câu chuyện về người phụ nữ bán bánh canh cua giá 300.000 VND gây tranh cãi trên mạng xã hội và câu chuyện gia đình của một người bạn trong giới giải trí của Trấn Thành, tác phẩm xoay quanh những mâu thuẫn trong gia đình của bà Ngọc Nữ, một chủ tiệm bánh canh cua ở khu chung cư cũ.",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 472,
+      "name": "Bố Già",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/ef/95/bc/ef95bc45f9309b1cf1b67c8467de2f87.jpg",
+      "text": "Lấy bối cảnh tại Thành phố Hồ Chí Minh, nội dung phim xoay quanh mối quan hệ giữa ông Sang – một người luôn lo chuyện bao đồng và giúp đỡ người khác – và con trai ông là Quắn – một cậu thanh niên kiếm tiền bằng Youtube rất yêu thương ba và em gái – cùng những rắc rối mà cả hai gặp phải với những người thân trong gia đình mình.",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 473,
+      "name": "Con Bạn Lấy Chồng",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/3c/a9/09/3ca90947068b236b9b1046c95fe708ef.jpg",
+      "text": "Lấy cảm hứng từ webdrama Chuyện Xóm Tui, câu chuyện ở bản điện ảnh kể về Nhót, người phụ nữ “chưa kịp già” đã sắp bị mãn kinh, vội vàng đi tìm chồng. Nhưng sâu thẳm trong cô là khao khát có một đứa con và luôn muốn hàn gắn với người cha suốt ngày say xỉn của mình.",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 474,
+      "name": "Kính Vạn Hoa",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/c4/7b/5c/c47b5c07e7f7f2d57b68ccda2de99bd1.jpg",
+      "text": "Kính vạn hoa xoay quanh cuộc sống của nhóm ba người bạn thân với những tính cách trái ngược: Quý 'ròm': thông minh, tốt bụng nhưng nhát gan và có phần vô tâm, hơi nóng tính; Tiểu Long khù khờ, giỏi võ; nhỏ Hạnh học giỏi, dịu dàng mà hậu đậu. Mỗi tập phim là một câu chuyện về cuộc sống thường ngày của ba người bạn: nhiều khi hài hước, đôi lúc thót tim hay ộng, nhưng luôn kết thúc với những bài học sâu sắc về tình bạn bè...",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 475,
+      "name": "Vong Nhi",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/40/57/9a/40579ae0b1221584d5c5e17b71317b30.jpg",
+      "text": "Lấy chủ đề về nạn phá thai, phim xoay quanh nhân vật Thảo, người đã có con đầu lòng sau bốn năm kết hôn, song cô lại phải đối diện với những ám ảnh trong quá khứ khi một vong nhi xuất hiện để báo thù cô.",
+      "menu": "comic",
+      "list": "Phim Kinh-dị"
+    },
+    {
+      "id": 476,
+      "name": "Quỷ Xá",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/0d/17/ad/0d17ad9ecd2526e695cf0543a32cbe8d.jpg",
+      "text": "Một chiếc không có tài xế bus, chở một đám bị nguyền rủa người, đi đến một gian màu đen quỷ bỏ...... Quỷ Xá bên trong, có vỗ một cái bị máu tươi nhiễm đỏ môn.",
+      "menu": "comic",
+      "list": "Kinh-dị"
+    },
+    {
+      "id": 477,
+      "name": "Sự Trở Lại Của Anh Hùng Diệt Thế",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/74/30/e5/7430e5d617accca894b2d56eb4bf1f91.jpg",
+      "text": "Từng là 1 kẻ có gia đình êm ấm trước khi được triệu hồi tới dị giới để trở thành anh hùng, từng là anh hùng cứu dị giới nhưng sau đó lại trở thành một kẻ chẳng còn gì ở chính thế giới của mình. Tại sao ta phải chịu đau khổ như vậy chứ? Tại sao người khác lại hạnh phúc hơn ta?! Các ngươi phải là kẻ chịu đau khổ! Bởi vì ta! Ta chính là Anh Hùng!!",
+      "menu": "comic",
+      "list": "Dị-giới"
+    },
+    {
+      "id": 478,
+      "name": "Phú Bà Xuyên Không, Thế Tử Không Dễ Lừa Gạt",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/c3/05/3c/c3053c9cf925a515d6816598e1c619aa.jpg",
+      "text": "Thân là thiên kim đời thứ hai của tập đoàn, nữ chủ thật vất vả đấu trí đấu dũng kiếm được tiền cả đời tiêu không hết chuẩn bị cá muối nằm thì ngoài ý muốn bỏ mình, xuyên qua đích nữ Nam Cẩm, người giàu nhất Thanh Châu đại nghiệp quốc. Nữ chủ mang theo ký ức của nguyên chủ, phát hiện nguyên chủ chính là một tiểu thư ăn chơi trác ma, vì thế nàng vừa tới thì an chi, giúp nguyên chủ trả thù nam nữ phụ tâm cẩu liền tính toán nằm thẳng hưởng thụ cuộc sống cá muối vung vàng như đất.",
+      "menu": "comic",
+      "list": "Ngôn-tình"
+    },
+    {
+      "id": 479,
+      "name": "Siêu Lừa Gặp Siêu Lầy",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/bc/60/3b/bc603bd8b6b0d0d62d624e50df00d3de.jpg",
+      "text": "Bộ phim lấy chủ đề liên quan đến tội phạm lừa đảo xoay quanh bộ đôi Tú và Khoa, cả hai đã gặp nhau tại Phú Quốc và hợp tác cùng ông Năm và Mã Lai để thực hiện nhiều hành vi trộm cắp.",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 480,
+      "name": "Lật Mặt 6: Tấm Vé Định Mệnh",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/6d/23/fe/6d23fe3b9339458ccc863522204314ce.jpg",
+      "text": "Phim kể về tấm vé số có mệnh giá 10 ngàn đồng và sở hữu những con số 'định mệnh' gồm 10, 16, 18, 20, 27, 28 - đây là tập hợp những con số ngày sinh của hội bạn thân gồm 6 người: Phương, Khanh, Phát, An, Toàn và Lộc. Câu chuyện bắt đầu khi Phương mua một tấm vé số có dãy số là tập hợp ngày sinh của cả 6 người. Và nếu như tấm vé này may mắn trúng giải, họ sẽ chia đều tiền thưởng cho cả 6 người. Và quả nhiên, tấm vé định mệnh này đã đem về cho nhóm một giải thưởng tới hơn 136 tỷ đồng. Tuy nhiên, người giữ tấm vé số là An lại gặp tai nạn tang thương và tấm vé số nằm ở ốp lưng điện thoại đã theo anh xuống mồ. Chính lúc này, dã tâm và bản năng của con người trỗi dậy. Hội bạn 5 người còn lại, kẻ thì muốn đào mộ để lấy tấm vé bị chôn trong mồ, người thì muốn ngăn cản bởi vì đó là phạm pháp.",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 481,
+      "name": "Thám Tử Kiên: Kỳ Án Không Đầu",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/da/4c/0e/da4c0e7fe2c4b20869ce5703109c31e1.jpg",
+      "text": "Một chuỗi án mạng kinh hoàng tại một ngôi làng hẻo lánh – nơi liên tiếp xảy ra tám vụ giết người với cùng một đặc điểm rợn người: tất cả nạn nhân đều không còn đầu.  Thám Tử Kiên phải đối mặt với vụ án khủng khiếp gây hoang mang tột độ cho dân làng. Ai sẽ là nạn nhân tiếp theo trong chuỗi án mạng rùng rợn? Kiên có tìm ra mấu chốt để lần theo dấu vết hung thủ?",
+      "menu": "comic",
+      "list": "Phim Trinh-thám"
+    },
+    {
+      "id": 482,
+      "name": "Mukuchi Na Tosho Iin To Sex Zuke.",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/bd/25/8e/bd258e2c176319d31450e7fbf1c413d3.jpg",
+      "text": "Không Có Mô Tả Cụ Thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 483,
+      "name": "Kiều Nương Thủ Phụ",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/e5/1f/ac/e51facda1619a0f1c33ff7d3d62aa7b2.jpg",
+      "text": "Vốn là thiên kim Hầu phủ, lại bởi vì lúc sinh ra ôm nhầm mà trở thành nữ nông gia. Thật vất vả lớn lên đến tuổi như hoa như ngọc, lại không có người tới cửa cưới nàng. Nói dung nhan nàng xấu xí, trời sinh si ngốc, hay là khắc phụ khắc mẫu tiểu tai tinh? Nhưng nàng nửa đường nhặt được phu quân, là tương lai thủ phụ. Nàng lên núi nhận nuôi tiểu hòa thượng, là sáu nước thần tướng. Ngay cả lão thái thái tiện tay cứu, cũng là thái hậu đương triều. Mỗ nam hung tợn nói: 'Nương tử, ai dám khi dễ ngươi, vi phu đem hắn xử lý!'Thần tướng nói: 'Tỷ tỷ, lục quốc cương thổ, ngươi muốn đi nơi nào, ta đều gọi cho ngươi!'",
+      "menu": "comic",
+      "list": "Ngôn-tình"
+    },
+    {
+      "id": 484,
+      "name": "Quý Phi Lúc Nào Cũng Muốn Được Lười Biếng",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/62/c1/11/62c11115e5ba1d464139d0f53bc6732c.jpg",
+      "text": "Tiêu Hề Hề xuyên không về thời cổ đại, trở thành một trong những phi tần của thái tử. Vốn nghĩ rằng sẽ bắt đầu đấu tranh trong cung, nhưng cô ấy chỉ muốn trở thành cá. Tranh giành sủng ái? Không tồn tại! Trở thành cá mới lạ đạo lý để sinh tồn, ăn hỗn tạp và chờ chết mới chính là bản chất của cuộc đời! Nhưng thái tử lạnh lùng lại yêu thích mặt này của cô ấy.",
+      "menu": "comic",
+      "list": "Ngôn-tình"
+    },
+    {
+      "id": 485,
+      "name": "Xứ Sở Các Nguyên Tố",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/c2/ee/20/c2ee20a0479e3d6edbd90f5630812c4b.jpg",
+      "text": "Bộ phim là hành trình xoay quanh mối quan hệ giữa cô nàng nguyên tố lửa, Ember (do Lewis lồng tiếng) và chàng trai nguyên tố nước, Wade (do Athie lồng tiếng), những cá thể không thể chạm được đến nhau; nhưng cùng nhau khám phá xem họ có bao nhiêu điểm chung giống nhau.",
+      "menu": "comic",
+      "list": "Phim Ngôn-tình"
+    },
+    {
+      "id": 486,
+      "name": "The Lost City of Z",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/c2/d9/35/c2d9353e4e30bb89d855620176d11a83.jpg",
+      "text": "Nội dung phim xoay quanh những sự kiện có thật trong cuộc đời của nhà thám hiểm người Anh Percy Fawcett từ thời điểm ông được gửi đến Bolivia để khảo sát và xây dựng bản đồ và bắt đầu bị cuốn hút bởi tàn tích của thành phố cổ đại có biệt danh 'Z' ẩn sâu trong rừng mưa Amazon, cho tới lúc biến mất cùng với con trai của mình trong một cuộc thám hiểm vào năm 1925.[5] Phim có sự tham gia của Charlie Hunnam trong vai Percy Fawcett,[6] cùng với Robert Pattinson vào vai người bạn đồng hành Henry Costin và Sienna Miller trong vai người vợ Nina Fawcett.[7]",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 487,
+      "name": "Fast & Furious 9: Huyền thoại tốc độ",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/85/fe/39/85fe3986b0ec59b79e00ffc59a1a30d5.jpg",
+      "text": "Trong phim, Dominic 'Dom' Toretto (Vin Diesel) và gia đình của anh phải đối mặt với một kẻ thù nguy hiểm mới tên Jakob (John Cena), em trai của Dom, cũng như mối đe dọa cũ của họ là Cipher (Charlize Theron).",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 488,
+      "name": "Jurassic World Dominion",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/53/04/87/5304877a3a67d6b2aec490408be55d66.jpg",
+      "text": "Thế giới khủng long là một bộ phim phiêu lưu khoa học viễn tưởng của Hoa Kỳ. Đây là phần thứ tư của dòng phim Công viên kỷ Jura. Bộ phim ở trong giai đoạn 'bế tắc phát triển' trong hơn một thập kỷ kể từ khi Công viên kỷ Jura III công chiếu năm 2002.",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 489,
+      "name": "Holy Night: Demon Hunters",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/c1/78/7b/c1787b5a3d2a722dc3a945605d5d755c.jpg",
+      "text": "Bộ phim xoay quanh 'Holy Night', một bộ ba thợ săn quỷ được trang bị sức mạnh siêu nhiên, những người được gọi đến để cứu Seoul khi thành phố này rơi vào hỗn loạn khi một mạng lưới tội phạm thờ quỷ xuất hiện.",
+      "menu": "comic",
+      "list": "Phim Kinh-dị"
+    },
+    {
+      "id": 490,
+      "name": "Tinh Võ Thần Quyết",
+      "rating": 2,
+      "img": "https://i.pinimg.com/736x/fb/c4/4f/fbc44fd8ee84ef0d52547196b7ee92d2.jpg",
+      "text": "Quyền toái nhật nguyệt, chưởng thôn sơn hà. Đạp nghịch thiên cường giả lộ, mỹ nhân làm bạn, tu luyện tinh võ truyền thừa, chấp chưởng quyền hành bát phương, thành tựu thần vương tối cao. Từ thiếu nữ thiên tài ôn nhu, đáng yêu, quận chúa thân hình nóng bỏng tràn trề đến yêu tộc mỹ nữ thần bí, cao hơn nữa là nữ võ thần trong truyền thuyết tối cao",
+      "menu": "comic",
+      "list": "Phiêu-lưu"
     }
   ]
 }
