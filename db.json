@@ -4646,7 +4646,7 @@
       "img": "https://i.pinimg.com/736x/bc/d2/1a/bcd21a7a45d097b8c8dc846bc36db9c1.jpg",
       "text": "Mẹ của tôi do tôi nhặt về, cha của tôi cũng do tôi nhặt về. Vì không muốn bị gọi là đứa trẻ hoang, tôi còn nhặt ca ca và tỷ tỷ,...",
       "menu": "comic",
-      "list": "Phiêu-lưu"
+      "list": "Phim"
     },
     {
       "id": 514,
@@ -4719,6 +4719,231 @@
       "text": "Tiểu Bạch vì muốn tu tiên, lại vào đúng tông môn lừa đảo. Bảy vị sư huynh tự tin đầy mình, thay nhau ra trận biên diễn thần công. Ai ngờ đối phương đúng là quỷ, toàn là bịa ra mà vẫn có thể hoàn toàn lĩnh hội. Đến cùng sư đệ là thần thánh phương nào?",
       "menu": "comic",
       "list": "Phiêu-lưu Truyện-cười"
+    },
+    {
+      "id": 522,
+      "name": "Tiểu Thư Thật Trở Về, Bị Cả Nhà Nghe Được Tiếng Lòng",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/bc/d2/1a/bcd21a7a45d097b8c8dc846bc36db9c1.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 523,
+      "name": "Sau Khi Sống Lại Không Liếm Lấy, Sư Tôn Sư Tỷ Hối Hận Đứt Ruột",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/bc/d2/1a/bcd21a7a45d097b8c8dc846bc36db9c1.jpg",
+      "text": "Ở kiếp trước Lâm Tiêu một người ngăn lại ma đạo đại quân, lực chiến đông đảo ma đầu, ngăn trở ma đạo phá vỡ tu tiên giới âm mưu, nhưng cuối cùng hắn lại bị tiểu sư đệ Diệp Lăng hiên nói xấu vì tiên môn phản đồ, trọng thương phía dưới, bị hắn kính yêu sư tôn tự tay hủy căn cơ, lại bị hai vị sư tỷ diệt thần hồn. Sống lại một đời, hắn thấy rõ thế gian ấm lạnh, từ nay về sau chỉ một lòng độc hành đại đạo, lại không quản cái kia rất nhiều nhàn sự. Quản hắn thế nhân sinh tử, hồng trần tịch diệt, mặc hắn môn phái hưng vong, tai kiếp sắp tới. Hắn Lâm Tiêu chỉ muốn làm một người đứng xem.",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 524,
+      "name": "Các Nữ Chính Nghe Được Tiếng Lòng Của Ta",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/bc/d2/1a/bcd21a7a45d097b8c8dc846bc36db9c1.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 525,
+      "name": "Trùng Sinh: Các Sư Tỷ Đừng Liếm Lại Ta",
+      "rating": 3,
+      "img": "https://i.pinimg.com/736x/bc/d2/1a/bcd21a7a45d097b8c8dc846bc36db9c1.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 526,
+      "name": "Sư Phụ Vô Tâm",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/bc/d2/1a/bcd21a7a45d097b8c8dc846bc36db9c1.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 527,
+      "name": "Xuyên Không Đóng Vai Phản Diện Ta Bị Nữ Chính Nhìn Thấu Cốt Truyện",
+      "rating": 5,
+      "img": "https://i.pinimg.com/736x/bc/d2/1a/bcd21a7a45d097b8c8dc846bc36db9c1.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Phim"
+    },
+    {
+      "id": 528,
+      "name": "Hai em nữ sinh say xỉn bị hiếp",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/89/36/8d/89368d83eae6bea6ce5a60b14dbed49b.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 529,
+      "name": "Một đêm xui xẻo của Frieren",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/09/fc/64/09fc648e610a03f6bce459db83808148.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 530,
+      "name": "Làm chuyện xấu với Cà Tím đang say rượu",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/24/3a/7a/243a7a306e42893a0d336b22c7a93a99.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 531,
+      "name": "Câu chuyện về làm việc xấu xa với cô bạn học cũ say rượu",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/6d/a6/07/6da607c77d9eb6979788a7f007a4d220.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 532,
+      "name": "Chika bị quấy rối và những chuyện kinh khủng xảy ra với cô ấy.",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/1e/c3/4f/1ec34f2267207f81220150d6cfadeb42.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 533,
+      "name": "Chika bị quấy rối và những chuyện kinh khủng xảy ra với cô ấy 2.",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/91/09/d6/9109d63b4a5c3eac8f676dc546fbbd46.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 534,
+      "name": "Chuyện về Nakano Nino uống rượu say và bị đụ",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/85/e7/c0/85e7c012df627c129b2b8d4e35752e8f.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 535,
+      "name": "Câu chuyện về việc làm điều xấu với Nakano Itsuki say rượu",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/d4/a1/1c/d4a11c0abb4ecaa42900df48e4bcd115.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 536,
+      "name": "Câu chuyện về việc làm điều xấu với Nakano Miku say rượu",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/77/c7/9e/77c79e48b39da460888dbd8164edf395.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 537,
+      "name": "A Married Woman Who Gets Drunk At A Part-time Drinking Party And Is Taken To An Employee's House",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/91/0e/87/910e8709f0466b51d510f0d99bb8b856.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 538,
+      "name": "Chuyện về Nakano Ichika uống rượu say và bị đụ",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/7b/0a/36/7b0a361a26eeade82b71bbd8afdf535d.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 539,
+      "name": "Tiệc Giao Thừa Với Nhóm Học Tập",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/36/53/3b/36533bedd7a322eee663fe990e4a9feb.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 540,
+      "name": "Đừng làm chuyện xấu khi Shenhe xỉn",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/c9/34/4a/c9344a3b0ecd17b07a5779c74e8b5dbd.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 541,
+      "name": "Câu chuyện về đêm ngọt ngào đầy hơi men của Ganyu",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/83/d7/c6/83d7c66f740714c82be071dfad2f79c1.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 542,
+      "name": "Eula xỉn làm chuyện xấu sau nhiệm vụ",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/04/4a/2f/044a2feedb28567b9373b39ed514b303.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 543,
+      "name": "Câu chuyện về việc đưa một cô nàng sinh viên say rượu về nhà",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/d7/f2/d5/d7f2d553a1c4b4d9adf54d6259a7a169.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 544,
+      "name": "Những cô bạn sinh viên say xỉn",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/4c/bd/62/4cbd62fbea74e6e77bcc3919c425d891.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 545,
+      "name": "Tiệc Chào Mừng Tân Sinh Viên",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/07/9d/29/079d29a6323a98a0f351e4f1baecc28e.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
+    },
+    {
+      "id": 546,
+      "name": "Chuyện gì sẽ xảy ra nếu kokomi say?",
+      "rating": 4,
+      "img": "https://i.pinimg.com/736x/cd/23/f8/cd23f8879dd52f8346a14a38fe11db9a.jpg",
+      "text": "Không có mô tả cụ thể!",
+      "menu": "comic",
+      "list": "Truyện-18"
     }
   ]
 }
